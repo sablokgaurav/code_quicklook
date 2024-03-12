@@ -1,9 +1,10 @@
 # repositories_library_search
 a collection of repositories and libraries to follow and look for the newly emerging libraries and code development. I will update this page regularly to show the new code development and approaches towards understanding. 
-[python](https://pybuddy.com/)
-[python](https://pythonrepo.com/)
-[biotools](https://bio.tools/)
 
+[python](https://pybuddy.com/) \
+[python](https://pythonrepo.com/) \
+[biotools](https://bio.tools/) \
+[code developer](https://bloggingfordevs.com/trends/) 
 
 Gaurav Sablok \
 Academic Staff Member \
