@@ -8,7 +8,8 @@ a collection of repositories and libraries to follow and look for the newly emer
 [shell code](explainshell.com) \
 [regular expression](autoregex.xyz) \
 [regular pattern expressions](regex101.com) \
-[image](codeimage.dev)
+[image code](codeimage.dev) \
+[devdocs][a code analysis and development package static webpage for finding all the information](https://devdocs.io/) 
 
 
 
