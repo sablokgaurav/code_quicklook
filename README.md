@@ -4,11 +4,11 @@ a collection of repositories and libraries to follow and look for the newly emer
 [python](https://pybuddy.com/) \
 [python](https://pythonrepo.com/) \
 [biotools](https://bio.tools/) \
-[code developer](https://bloggingfordevs.com/trends/) 
-[shell code](explainshell.com)
-[regular expression](autoregex.xyz)
-[regular pattern expressions](regex101.com)
-[code image](codeimage.dev)
+[code developer](https://bloggingfordevs.com/trends/) \
+[shell code](explainshell.com) \
+[regular expression](autoregex.xyz) \
+[regular pattern expressions](regex101.com) \
+[image](codeimage.dev)
 
 
 
