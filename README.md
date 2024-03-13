@@ -23,6 +23,15 @@ a collection of repositories and libraries to follow and look for the newly emer
 [packagelibraries](https://libraries.io/) \
 [kubernetes](https://kubernetes.io/training/)
 
+Communities that i follow and keep posting the code to: \
+[CrateDB](https://community.cratedb.com/) \
+[Crystal](https://forum.crystal-lang.org/) \
+[Linux](https://linuxcommunity.io/) \
+[Streamlit](https://discuss.streamlit.io/) \
+[Posit](https://community.rstudio.com/) \
+[Python](https://www.python.org/community/) \
+[Python Community](https://discuss.python.org/) and [Python Community](https://www.python-forum.de/)
+
 Gaurav Sablok \
 Academic Staff Member \
 Bioinformatics \
