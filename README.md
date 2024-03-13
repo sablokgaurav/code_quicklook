@@ -31,6 +31,7 @@ Communities that i follow and keep posting the code to: \
 [Posit](https://community.rstudio.com/) \
 [Python](https://www.python.org/community/) \
 [Python Community](https://discuss.python.org/) and [Python Community](https://www.python-forum.de/)
+[Rocker: A docker for the R](https://rocker-project.org/)
 
 Gaurav Sablok \
 Academic Staff Member \
