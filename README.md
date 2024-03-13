@@ -9,7 +9,7 @@ a collection of repositories and libraries to follow and look for the newly emer
 [regular expression](autoregex.xyz) \
 [regular pattern expressions](regex101.com) \
 [image code](codeimage.dev) \
-[devdocs: a code analysis and development package static webpage for finding all the information](https://devdocs.io/) \
+[API documentation browser](https://devdocs.io/) \
 [boto3 documentation](https://boto3.amazonaws.com/v1/documentation/api/latest/index.html)
 
 
