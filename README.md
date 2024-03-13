@@ -2,6 +2,7 @@
 a collection of repositories and libraries to follow and look for the newly emerging libraries and code development. I will update this page regularly to show the new code development and approaches towards understanding. These are basically the links that might help understand better. These are basically the links that i use to see something quickly rather than going around and searching for a lot of time, so basically i dont have to google simply visit the link and search for what i need specifically :-)
 
 [python](https://pybuddy.com/) \
+[python package repository](https://pypi.org/)
 [python](https://pythonrepo.com/) \
 [biotools](https://bio.tools/) \
 [code developer](https://bloggingfordevs.com/trends/) \
