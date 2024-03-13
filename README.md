@@ -20,7 +20,8 @@ a collection of repositories and libraries to follow and look for the newly emer
 [rubystaticcode](https://www.ruby-forum.com/tutorials) \
 [dockerhub](https://hub.docker.com/) \
 [trendingprojects](https://www.libhunt.com/) \
-[packagelibraries](https://libraries.io/)
+[packagelibraries](https://libraries.io/) \
+[kubernetes](https://kubernetes.io/training/)
 
 Gaurav Sablok \
 Academic Staff Member \
