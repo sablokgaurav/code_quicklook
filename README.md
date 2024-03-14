@@ -30,6 +30,7 @@ Rest no book or code courses teaches you how to write code for specific applicat
 [julia algorithms and program code](https://julialang.org/learning/books/) \
 [julia lang](https://syl1.gitbook.io/julia-language-a-concise-tutorial)
 [julia zoid](https://juliazoid.com/)
+[julia machine learning](https://juliapackages.com/c/machine-learning)
 
 Communities that i follow and keep posting the code to: \
 [CrateDB](https://community.cratedb.com/) \
