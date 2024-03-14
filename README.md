@@ -25,8 +25,8 @@ Rest no book or code courses teaches you how to write code for specific applicat
 [packagelibraries](https://libraries.io/) \
 [kubernetes](https://kubernetes.io/training/) \
 [Hydra](https://hydra.cc/) \
-[Spektral Graph](https://graphneural.network/)
-
+[Spektral Graph](https://graphneural.network/) \
+[Optuna](https://optuna.org/)
 
 Communities that i follow and keep posting the code to: \
 [CrateDB](https://community.cratedb.com/) \
