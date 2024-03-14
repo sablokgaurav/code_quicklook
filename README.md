@@ -27,6 +27,7 @@ Rest no book or code courses teaches you how to write code for specific applicat
 [Hydra](https://hydra.cc/) \
 [Spektral Graph](https://graphneural.network/) \
 [Optuna](https://optuna.org/)
+[julia algorithms and program code](https://julialang.org/learning/books/)
 
 Communities that i follow and keep posting the code to: \
 [CrateDB](https://community.cratedb.com/) \
