@@ -1,4 +1,4 @@
-# repositories_application and links for those programming languages that i am already and have been programming and those that i am learning new one. 
+# repositories_application and links for those programming languages that i am already and have been programming and those that i am learning new. 
 i dont program in C anymore and gave up after a long time doing the same and still sometimes a little bit. 
 
 a collection of repositories and libraries to follow and look for the newly emerging libraries and code development. I will update this page regularly to show the new code development and approaches towards understanding. These are basically the links that might help understand better. These are basically the links that i use to see something quickly rather than going around and searching for a lot of time, so basically i dont have to google simply visit the link and search for what i need specifically :-). Website i use for the wallpaper [wallpaper](https://pixabay.com/de/)
