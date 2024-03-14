@@ -26,8 +26,10 @@ Rest no book or code courses teaches you how to write code for specific applicat
 [kubernetes](https://kubernetes.io/training/) \
 [Hydra](https://hydra.cc/) \
 [Spektral Graph](https://graphneural.network/) \
-[Optuna](https://optuna.org/)
-[julia algorithms and program code](https://julialang.org/learning/books/)
+[Optuna](https://optuna.org/) \
+[julia algorithms and program code](https://julialang.org/learning/books/) \
+[julia lang](https://syl1.gitbook.io/julia-language-a-concise-tutorial)
+[julia zoid](https://juliazoid.com/)
 
 Communities that i follow and keep posting the code to: \
 [CrateDB](https://community.cratedb.com/) \
