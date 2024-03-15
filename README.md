@@ -53,8 +53,8 @@ Quick look for the julia machine learning libraries \
 [machine learning](https://github.com/JuliaML) \
 [datascience](https://github.com/JuliaData) \
 [gaussian process](https://github.com/JuliaGaussianProcesses) \
-[metabolic modelling](https://github.com/opencobra/COBRA.jl)
-[julia language server and function list](https://www.jlhub.com/julia/manual/en/)
+[metabolic modelling](https://github.com/opencobra/COBRA.jl) \
+[julia language server and function list](https://www.jlhub.com/julia/manual/en/) \
 [julia lang activated functions](https://www.jlhub.com/julia/manual/en/function-reference)
 
 Communities that i follow and keep posting the code to: \
