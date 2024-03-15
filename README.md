@@ -66,7 +66,7 @@ Communities that i follow and keep posting the code to: \
 [Rocker: A docker for the R](https://rocker-project.org/)
 
 two of the best terminals i use for the program 
-[tabby](https://github.com/Eugeny/tabby)
+[tabby](https://github.com/Eugeny/tabby) \
 [warp](https://github.com/warpdotdev/Warp)
 
 Gaurav Sablok \
