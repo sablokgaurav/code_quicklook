@@ -38,21 +38,21 @@ Rest no book or code courses teaches you how to write code for specific applicat
 [julia berlin group](https://julia-users-berlin.github.io/)
 
 Quick look for the julia machine learning libraries
-[Text analysis](https://github.com/JuliaText)
-[Intervals](https://github.com/JuliaIntervals)
-[Image processing](https://github.com/JuliaImages)
-[Bioinformatics](https://github.com/BioJulia)
-[Graph modelling](https://github.com/JuliaGraphs)
-[Cloud computing](https://github.com/JuliaCloud)
-[web analysis](https://github.com/JuliaWeb)
-[parallel programming](https://github.com/JuliaParallel)
-[gpu programming](https://github.com/JuliaGPU)
-[continous integration](https://github.com/JuliaCI)
-[arrays](https://github.com/JuliaArrays)
-[machine learning applications](https://github.com/SciML)
-[machine learning](https://github.com/JuliaML)
-[datascience](https://github.com/JuliaData)
-[gaussian process](https://github.com/JuliaGaussianProcesses)
+[Text analysis](https://github.com/JuliaText) \
+[Intervals](https://github.com/JuliaIntervals) \
+[Image processing](https://github.com/JuliaImages) \
+[Bioinformatics](https://github.com/BioJulia) \
+[Graph modelling](https://github.com/JuliaGraphs) \
+[Cloud computing](https://github.com/JuliaCloud) \
+[web analysis](https://github.com/JuliaWeb) \
+[parallel programming](https://github.com/JuliaParallel) \
+[gpu programming](https://github.com/JuliaGPU) \
+[continous integration](https://github.com/JuliaCI) \
+[arrays](https://github.com/JuliaArrays) \
+[machine learning applications](https://github.com/SciML) \
+[machine learning](https://github.com/JuliaML) \
+[datascience](https://github.com/JuliaData) \
+[gaussian process](https://github.com/JuliaGaussianProcesses) \
 [metabolic modelling](https://github.com/opencobra/COBRA.jl)
 
 Communities that i follow and keep posting the code to: \
