@@ -37,7 +37,7 @@ Rest no book or code courses teaches you how to write code for specific applicat
 [julia forem](https://forem.julialang.org/) \
 [julia berlin group](https://julia-users-berlin.github.io/)
 
-Quick look for the julia machine learning libraries
+Quick look for the julia machine learning libraries \
 [Text analysis](https://github.com/JuliaText) \
 [Intervals](https://github.com/JuliaIntervals) \
 [Image processing](https://github.com/JuliaImages) \
