@@ -8,6 +8,12 @@ Rest no book or code courses teaches you how to write code for specific applicat
 [python](https://pybuddy.com/) \
 [python package repository](https://pypi.org/)
 [python](https://pythonrepo.com/) \
+[rubydocs](https://ruby-doc.org/) \
+[rubylatest](https://ruby-doc.org/3.3.0/)
+[crystalAPI](https://crystal-lang.org/api/1.11.2/) \
+[python](https://docs.python.org/3/) \
+[python packaging](https://packaging.python.org/en/latest/) \
+[ruby lang](https://www.ruby-lang.org/en/documentation/) \
 [biotools](https://bio.tools/) \
 [code developer](https://bloggingfordevs.com/trends/) \
 [shell code](explainshell.com) \
@@ -55,7 +61,10 @@ Quick look for the julia machine learning libraries \
 [gaussian process](https://github.com/JuliaGaussianProcesses) \
 [metabolic modelling](https://github.com/opencobra/COBRA.jl) \
 [julia language server and function list](https://www.jlhub.com/julia/manual/en/) \
-[julia lang activated functions](https://www.jlhub.com/julia/manual/en/function-reference)
+[julia lang activated functions](https://www.jlhub.com/julia/manual/en/function-reference) \
+[julia lang not so detailed](https://julia.school/julia/) \
+[julia lang online book](https://syl1.gitbook.io/julia-language-a-concise-tutorial) \
+[julia lang](https://docs.julialang.org/en/v1/)
 
 Communities that i follow and keep posting the code to: \
 [CrateDB](https://community.cratedb.com/) \
