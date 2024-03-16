@@ -76,7 +76,7 @@ Communities that i follow and keep posting the code to: \
 [Python Community](https://discuss.python.org/) and [Python Community](https://www.python-forum.de/)
 [Rocker: A docker for the R](https://rocker-project.org/)
 
-two of the best terminals i use for the program code for the hpc or the cloud or the devops.
+two of the best terminals i use for the program code for the hpc or the cloud or the devops. \
 [tabby](https://github.com/Eugeny/tabby) \
 [warp](https://github.com/warpdotdev/Warp)
 
