@@ -7,6 +7,12 @@ Rest no book or code courses teaches you how to write code for specific applicat
 Best online conversion that you can use for any format. I use this only all the time mainly.
 [cloudconvert](https://cloudconvert.com/)
 
+A free online code learn
+[Exercism](https://exercism.org/) \
+[Python Institute](https://pythoninstitute.org/) \
+[Killer shell devops](https://killer.sh/) \
+[OpenEdge](https://edube.org/login) \
+[Terraform Cloud](https://app.terraform.io/session) \
 [python](https://pybuddy.com/) \
 [python package repository](https://pypi.org/)
 [python](https://pythonrepo.com/) \
