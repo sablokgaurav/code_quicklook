@@ -13,7 +13,7 @@ Best online conversion that you can use for any format. I use this only all the 
 
 The best github account readme \
 [ProfileMe.dev](https://www.profileme.dev/) \
-[Github Profile Maker](https://github-profile-maker.vercel.app/) \
+[Github Profile Maker](https://github-profile-maker.vercel.app/) 
 
 Code Program \
 [Exercism](https://exercism.org/) \
@@ -102,7 +102,7 @@ two of the best terminals i use for the program code for the hpc or the cloud or
 [warp](https://github.com/warpdotdev/Warp)
 
 If you are interested into developing your work cluture and ethics then you can read my working ehtics for making your work culture and surroundings stronger. By implementing this you will only become stronger and not weaker.\
-[Ethics](https://docs.google.com/document/d/1NFiJlNA4gsJYLh9wz2MSFfvowuNx_ndjbgo-V6vg6Lg/edit) 
+[Ethics](https://github.com/sablokgaurav/code_language_recommendations_ethics/blob/main/ethics.read) 
 
 Gaurav Sablok \
 Academic Staff Member \
