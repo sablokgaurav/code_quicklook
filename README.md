@@ -82,7 +82,8 @@ Quick look for the julia machine learning libraries \
 [julia lang online book](https://syl1.gitbook.io/julia-language-a-concise-tutorial) \
 [julia lang](https://docs.julialang.org/en/v1/)
 [julia collections](https://github.com/JuliaCollections) \
-[julia sos](https://www.juliasos.com/)
+[julia sos](https://www.juliasos.com/) \
+[julia machine learning](https://adrianhill.de/julia-ml-course/)
 
 Communities that i follow and keep posting the code to: \
 [CrateDB](https://community.cratedb.com/) \
