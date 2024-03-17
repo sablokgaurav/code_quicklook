@@ -104,12 +104,19 @@ two of the best terminals i use for the program code for the hpc or the cloud or
 [tabby](https://github.com/Eugeny/tabby) \
 [warp](https://github.com/warpdotdev/Warp)
 
-AWK compilers
+AWK compilers: I am writing a new Awk library and was actually searching for better than the normal \
+compilation, which i have done previously to increase the run time efficiency. \
 [lawk](https://lawk.sourceforge.net/) \
 [awkc](https://www.mkssoftware.com/docs/man1/awkc.1.asp) \
 [goawk](https://github.com/benhoyt/goawk) This one is specically useful if you are writing DevOps \
 [awka](https://github.com/noyesno/awka) Awk to C compiler \
-[allcaps](https://github.com/dbohdan/all-caps-basic) A compiler written in Awk. I am writing a new Awk library and was actually searching for better than the normal compilation, which i have done previously to increase the run time efficiency. 
+[allcaps](https://github.com/dbohdan/all-caps-basic) A compiler written in Awk. 
+
+Resources for the following examinations \
+RHCSA (Red Hat Certified System Administrator) \
+Kubernetes CKS, CKAD \
+Docker Certified Examination (DCA) \
+Terraform HashiCorp 
 
 
 Gaurav Sablok \
