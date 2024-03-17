@@ -1,4 +1,4 @@
-# programming_code_repositories
+# code_language_recommendations
 
 I am not a fan of keeping the black wallpapers or mode or the github dark themes as i dont like that except for the visual studio and the code editors, where i write code and that makes code looks better visually, so i cant recommend anything in that respect. Here you can find a collection of themes if you are a avid and program most of the day to increase your vision and transparency and also to give your eyes a little bit rest [make_code_easier_visually](https://vscodethemes.com/).
 
