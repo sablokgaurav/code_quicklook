@@ -1,4 +1,6 @@
-# programming_code
+# programming_code_repositories
+
+I am not a fan of keeping the black wallpapers or mode or the github dark themes as i dont like that except for the visual studio and the code editors, where i write code and that makes code looks better visually, so i cant recommend anything in that respect.  
 
 repositories_application and links for those programming languages that i am already and have been programming and those that i am learning new. I dont program in C anymore and gave up after a long time doing the same and still sometimes a little bit. a collection of repositories and libraries to follow and look for the newly emerging libraries and code development. I will update this page regularly to show the new code development and approaches towards understanding. These are basically the links that might help understand better. These are basically the links that i use to see something quickly rather than going around and searching for a lot of time, so basically i dont have to google simply visit the link and search for what i need specifically :-). Website i use for the wallpaper [wallpaper](https://pixabay.com/de/)
 
