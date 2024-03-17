@@ -8,6 +8,9 @@ repositories_application and links for those programming languages that i am alr
 
 Rest no book or code courses teaches you how to write code for specific applications, specific projects, specific roles and everything else. They simply teaches you how to put and declare variables, write functions and others. You have to put your efforts in writing the same. 
 
+If you are interested into developing your work cluture and ethics then you can read my working ehtics for making your work culture and surroundings stronger. By implementing this you will only become stronger and not weaker.\
+[Ethics](https://github.com/sablokgaurav/code_language_recommendations_ethics/blob/main/ethics.read) 
+
 Best online conversion that you can use for any format. I use this only all the time mainly. \
 [cloudconvert](https://cloudconvert.com/)
 
@@ -100,9 +103,6 @@ Communities that i follow and keep posting the code to: \
 two of the best terminals i use for the program code for the hpc or the cloud or the devops. \
 [tabby](https://github.com/Eugeny/tabby) \
 [warp](https://github.com/warpdotdev/Warp)
-
-If you are interested into developing your work cluture and ethics then you can read my working ehtics for making your work culture and surroundings stronger. By implementing this you will only become stronger and not weaker.\
-[Ethics](https://github.com/sablokgaurav/code_language_recommendations_ethics/blob/main/ethics.read) 
 
 Gaurav Sablok \
 Academic Staff Member \
