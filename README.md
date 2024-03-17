@@ -109,6 +109,8 @@ AWK compilers
 [awkc](https://www.mkssoftware.com/docs/man1/awkc.1.asp) \
 [goawk](https://github.com/benhoyt/goawk) This one is specically useful if you are writing DevOps \
 [awka](https://github.com/noyesno/awka) Awk to C compiler 
+[allcaps](https://github.com/dbohdan/all-caps-basic) A compiler written in Awk. I am writing a new Awk library and was actually searching for better than the normal compilation, which i have done previously. \
+
 
 Gaurav Sablok \
 Academic Staff Member \
