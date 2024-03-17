@@ -104,6 +104,12 @@ two of the best terminals i use for the program code for the hpc or the cloud or
 [tabby](https://github.com/Eugeny/tabby) \
 [warp](https://github.com/warpdotdev/Warp)
 
+AWK compilers
+[lawk](https://lawk.sourceforge.net/) \
+[awkc](https://www.mkssoftware.com/docs/man1/awkc.1.asp) \
+[goawk](https://github.com/benhoyt/goawk) This one is specically useful if you are writing DevOps \
+[awka](https://github.com/noyesno/awka) Awk to C compiler 
+
 Gaurav Sablok \
 Academic Staff Member \
 Bioinformatics \
