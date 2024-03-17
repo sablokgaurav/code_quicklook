@@ -88,7 +88,8 @@ Quick look for the julia machine learning libraries \
 [julia lang](https://docs.julialang.org/en/v1/)
 [julia collections](https://github.com/JuliaCollections) \
 [julia sos](https://www.juliasos.com/) \
-[julia machine learning](https://adrianhill.de/julia-ml-course/)
+[julia machine learning](https://adrianhill.de/julia-ml-course/) \
+[julia academy](https://juliaacademy.com/courses/) 
 
 Communities that i follow and keep posting the code to: \
 [CrateDB](https://community.cratedb.com/) \
@@ -113,6 +114,9 @@ compilation, which i have done previously to increase the run time efficiency. \
 [allcaps](https://github.com/dbohdan/all-caps-basic) A compiler written in Awk. 
 
 Resources for the following examinations \
+[Linux Foundation](https://training.linuxfoundation.org/)
+[AWS console](https://aws.amazon.com/console/)
+[Cloud Native Computing Foundation](https://www.cncf.io/)
 RHCSA (Red Hat Certified System Administrator) \
 Kubernetes CKS, CKAD \
 Docker Certified Examination (DCA) \
