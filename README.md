@@ -101,9 +101,14 @@ Communities that i follow and keep posting the code to: \
 [Python Community](https://discuss.python.org/) and [Python Community](https://www.python-forum.de/) \
 [Rocker: A docker for the R](https://rocker-project.org/)
 
-two of the best terminals i use for the program code for the hpc or the cloud or the devops. \
+Code Editors and Best DevOPs terminal clients
 [tabby](https://github.com/Eugeny/tabby) \
 [warp](https://github.com/warpdotdev/Warp)
+[VSCode](https://code.visualstudio.com/)
+[Submlime packages](https://github.com/SublimeText)
+[Sublime package control](https://packagecontrol.io/packages/sublime-github)
+[Sublime](https://www.sublimetext.com/index2)
+
 
 AWK compilers: I am writing a new Awk library and was actually searching for better than the normal \
 compilation, which i have done previously to increase the run time efficiency. \
