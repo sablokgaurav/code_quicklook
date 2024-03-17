@@ -103,10 +103,10 @@ Communities that i follow and keep posting the code to: \
 
 Code Editors and Best DevOPs terminal clients
 [tabby](https://github.com/Eugeny/tabby) \
-[warp](https://github.com/warpdotdev/Warp)
-[VSCode](https://code.visualstudio.com/)
-[Submlime packages](https://github.com/SublimeText)
-[Sublime package control](https://packagecontrol.io/packages/sublime-github)
+[warp](https://github.com/warpdotdev/Warp) \
+[VSCode](https://code.visualstudio.com/) \
+[Submlime packages](https://github.com/SublimeText) \
+[Sublime package control](https://packagecontrol.io/packages/sublime-github) \
 [Sublime](https://www.sublimetext.com/index2)
 
 
