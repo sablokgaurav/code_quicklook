@@ -108,6 +108,7 @@ Code Editors and Best DevOPs terminal clients
 [Submlime packages](https://github.com/SublimeText) \
 [Sublime package control](https://packagecontrol.io/packages/sublime-github) \
 [Sublime](https://www.sublimetext.com/index2)
+[Sublime Merge](https://www.sublimemerge.com/)
 
 
 AWK compilers: I am writing a new Awk library and was actually searching for better than the normal \
