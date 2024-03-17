@@ -1,9 +1,8 @@
-# code_language_recommendations
+# code_language_recommendations_ethics
 
 I am not a fan of keeping the black wallpapers or mode or the github dark themes as i dont like that except for the visual studio and the code editors, where i write code and that makes code looks better visually, so i cant recommend anything in that respect. Here you can find a collection of themes if you are a avid and program most of the day to increase your vision and transparency and also to give your eyes a little bit rest [make_code_easier_visually](https://vscodethemes.com/).
 
 I have tested and used a lot of web-browsers and here are my personal recommendations: Vivaldi, if you are using broswer for extensive use and the features such as sorting the bookmarks according to the links is the most impressive one. I read a lot of material and once done, clean them out. This browser has helped me to do so in a very short time before coming to Germany as it clustered the links of the same sites together, no other browser supports the same. Microsoft Edge, which i am currently using and it works great. Brave browser, which i have used extensively and it is the strongest browser but it was taking too much ram on my old macbook and me having a old macbook, have to stop using that. 
-
 
 repositories_application and links for those programming languages that i am already and have been programming and those that i am learning new. I dont program in C anymore and gave up after a long time doing the same and still sometimes a little bit. a collection of repositories and libraries to follow and look for the newly emerging libraries and code development. I will update this page regularly to show the new code development and approaches towards understanding. These are basically the links that might help understand better. These are basically the links that i use to see something quickly rather than going around and searching for a lot of time, so basically i dont have to google simply visit the link and search for what i need specifically :-). Website i use for the wallpaper [wallpaper](https://pixabay.com/de/)
 
@@ -101,6 +100,9 @@ Communities that i follow and keep posting the code to: \
 two of the best terminals i use for the program code for the hpc or the cloud or the devops. \
 [tabby](https://github.com/Eugeny/tabby) \
 [warp](https://github.com/warpdotdev/Warp)
+
+If you are interested into developing your work cluture and ethics then you can read my working ehtics for making your work culture and surroundings stronger. By implementing this you will only become stronger and not weaker.\
+[Ethics](https://docs.google.com/document/d/1NFiJlNA4gsJYLh9wz2MSFfvowuNx_ndjbgo-V6vg6Lg/edit) 
 
 Gaurav Sablok \
 Academic Staff Member \
