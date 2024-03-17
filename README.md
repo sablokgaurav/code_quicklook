@@ -53,7 +53,9 @@ Code Program \
 [julia machine learning](https://juliapackages.com/c/machine-learning) \
 [julia community](https://discourse.julialang.org/) \
 [julia forem](https://forem.julialang.org/) \
-[julia berlin group](https://julia-users-berlin.github.io/)
+[julia berlin group](https://julia-users-berlin.github.io/) \
+[julia gpu programming](https://juliagpu.org/) \
+[julia dev blog](https://dev.to/t/julia) \
 
 Quick look for the julia machine learning libraries \
 [Text analysis](https://github.com/JuliaText) \
