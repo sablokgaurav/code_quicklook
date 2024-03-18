@@ -103,7 +103,7 @@ Communities that i follow and keep posting the code to: \
 [Python Community](https://discuss.python.org/) and [Python Community](https://www.python-forum.de/) \
 [Rocker: A docker for the R](https://rocker-project.org/)
 
-Code Editors and Best DevOPs terminal clients
+Code Editors and Best DevOPs terminal clients and i think these all are sufficient enough for everything.
 [tabby](https://github.com/Eugeny/tabby) \
 [warp](https://github.com/warpdotdev/Warp) \
 [VSCode](https://code.visualstudio.com/) \
@@ -112,6 +112,7 @@ Code Editors and Best DevOPs terminal clients
 [Sublime](https://www.sublimetext.com/index2)
 [Sublime Merge](https://www.sublimemerge.com/)
 [Zed](https://github.com/zed-industries/zed)
+[Wezterm](https://github.com/wez/wezterm)
 
 AWK compilers: I am writing a new Awk library and was actually searching for better than the normal \
 compilation, which i have done previously to increase the run time efficiency. \
