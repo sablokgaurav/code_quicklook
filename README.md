@@ -103,7 +103,7 @@ Communities that i follow and keep posting the code to: \
 [Python Community](https://discuss.python.org/) and [Python Community](https://www.python-forum.de/) \
 [Rocker: A docker for the R](https://rocker-project.org/)
 
-Code Editors and Best DevOPs terminal clients and i think these all are sufficient enough for everything.
+Code Editors and Best DevOPs terminal clients and i think these all are sufficient enough for everything. \
 [tabby](https://github.com/Eugeny/tabby) \
 [warp](https://github.com/warpdotdev/Warp) \
 [VSCode](https://code.visualstudio.com/) \
