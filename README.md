@@ -109,10 +109,10 @@ Code Editors and Best DevOPs terminal clients and i think these all are sufficie
 [VSCode](https://code.visualstudio.com/) \
 [Submlime packages](https://github.com/SublimeText) \
 [Sublime package control](https://packagecontrol.io/packages/sublime-github) \
-[Sublime](https://www.sublimetext.com/index2)
-[Sublime Merge](https://www.sublimemerge.com/)
-[Zed](https://github.com/zed-industries/zed)
-[Wezterm](https://github.com/wez/wezterm)
+[Sublime](https://www.sublimetext.com/index2) \
+[Sublime Merge](https://www.sublimemerge.com/) \
+[Zed](https://github.com/zed-industries/zed) \
+[Wezterm](https://github.com/wez/wezterm) 
 
 AWK compilers: I am writing a new Awk library and was actually searching for better than the normal \
 compilation, which i have done previously to increase the run time efficiency. \
@@ -128,7 +128,7 @@ Resources for the following examinations \
 [Linux Foundation](https://training.linuxfoundation.org/) \
 [AWS console](https://aws.amazon.com/console/) \
 [Cloud Native Computing Foundation](https://www.cncf.io/) \
-[Linux Professional](https://www.lpi.org/our-certifications/lpic-1-overview/) \
+[Linux Professional](https://www.lpi.org/our-certifications/lpic-1-overview/) 
 
 Gaurav Sablok \
 Academic Staff Member \
