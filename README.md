@@ -129,11 +129,6 @@ Resources for the following examinations \
 [AWS console](https://aws.amazon.com/console/) \
 [Cloud Native Computing Foundation](https://www.cncf.io/) \
 [Linux Professional](https://www.lpi.org/our-certifications/lpic-1-overview/) \
-RHCSA (Red Hat Certified System Administrator) \
-Kubernetes CKS, CKAD \
-Docker Certified Examination (DCA) \
-Terraform HashiCorp 
-
 
 Gaurav Sablok \
 Academic Staff Member \
