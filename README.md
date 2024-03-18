@@ -92,6 +92,7 @@ Quick look for the julia machine learning libraries \
 [julia sos](https://www.juliasos.com/) \
 [julia machine learning](https://adrianhill.de/julia-ml-course/) \
 [julia academy](https://juliaacademy.com/courses/) 
+[OpenHPI Course](https://open.hpi.de/)
 
 Communities that i follow and keep posting the code to: \
 [CrateDB](https://community.cratedb.com/) \
