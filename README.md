@@ -1,4 +1,4 @@
-# code_language_recommendations_ethics
+# code_ethics
 
 I am not a fan of keeping the black wallpapers or mode or the github dark themes as i dont like that except for the visual studio and the code editors, where i write code and that makes code looks better visually, so i cant recommend anything in that respect. Here you can find a collection of themes if you are a avid and program most of the day to increase your vision and transparency and also to give your eyes a little bit rest [make_code_easier_visually](https://vscodethemes.com/).
 
@@ -109,6 +109,7 @@ Code Editors and Best DevOPs terminal clients
 [Sublime package control](https://packagecontrol.io/packages/sublime-github) \
 [Sublime](https://www.sublimetext.com/index2)
 [Sublime Merge](https://www.sublimemerge.com/)
+[Zed](https://github.com/zed-industries/zed)
 
 
 AWK compilers: I am writing a new Awk library and was actually searching for better than the normal \
