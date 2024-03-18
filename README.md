@@ -54,6 +54,8 @@ Code Program \
 [Hydra](https://hydra.cc/) \
 [Spektral Graph](https://graphneural.network/) \
 [Optuna](https://optuna.org/) \
+[Regular expression](https://www.rexegg.com/) \
+[Regular expression informatics](https://www.regular-expressions.info/) \
 [julia algorithms and program code](https://julialang.org/learning/books/) \
 [julia lang](https://syl1.gitbook.io/julia-language-a-concise-tutorial) \
 [julia zoid](https://juliazoid.com/) \
@@ -110,7 +112,6 @@ Code Editors and Best DevOPs terminal clients
 [Sublime](https://www.sublimetext.com/index2)
 [Sublime Merge](https://www.sublimemerge.com/)
 [Zed](https://github.com/zed-industries/zed)
-
 
 AWK compilers: I am writing a new Awk library and was actually searching for better than the normal \
 compilation, which i have done previously to increase the run time efficiency. \
