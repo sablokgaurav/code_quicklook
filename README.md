@@ -136,13 +136,13 @@ DevOps and Administration  \
 [kubernetes](https://kubernetes.io/training/) 
 
 Customization \
-[ZSH plugins](https://github.com/unixorn/awesome-zsh-plugins)
-[Oh-my-Posh](https://github.com/JanDeDobbeleer/oh-my-posh)
-[Oh-my-ZSH](https://github.com/ohmyzsh/ohmyzsh)
-[ZSH completions](https://github.com/zsh-users/zsh-completions)
-[ZSH syntax highlighting](https://github.com/zsh-users/zsh-syntax-highlighting)
-[Antigen](https://github.com/zsh-users/antigen)
-[ZSH Autosuggestions](https://github.com/zsh-users/zsh-autosuggestions)
+[ZSH plugins](https://github.com/unixorn/awesome-zsh-plugins) \
+[Oh-my-Posh](https://github.com/JanDeDobbeleer/oh-my-posh) \
+[Oh-my-ZSH](https://github.com/ohmyzsh/ohmyzsh) \
+[ZSH completions](https://github.com/zsh-users/zsh-completions) \
+[ZSH syntax highlighting](https://github.com/zsh-users/zsh-syntax-highlighting) \
+[Antigen](https://github.com/zsh-users/antigen) \
+[ZSH Autosuggestions](https://github.com/zsh-users/zsh-autosuggestions) 
 
 Rules for better code strategies \
 1.  Keep a day off from the code and make it more attendable. Going through all the code, bug fixes and everything.
