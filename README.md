@@ -1,15 +1,10 @@
 # code_ethics
 
-I am not a fan of keeping the black wallpapers or mode or the github dark themes as i dont like that except for the visual studio and the code editors, where i write code and that makes code looks better visually, so i cant recommend anything in that respect. Here you can find a collection of themes if you are a avid and program most of the day to increase your vision and transparency and also to give your eyes a little bit rest [make_code_easier_visually](https://vscodethemes.com/).
-
-I have tested and used a lot of web-browsers and here are my personal recommendations: Vivaldi, if you are using broswer for extensive use and the features such as sorting the bookmarks according to the links is the most impressive one. I read a lot of material and once done, clean them out. This browser has helped me to do so in a very short time before coming to Germany as it clustered the links of the same sites together, no other browser supports the same. Microsoft Edge, which i am currently using and it works great. Brave browser, which i have used extensively and it is the strongest browser but it was taking too much ram on my old macbook and me having a old macbook, have to stop using that. 
+I am not a fan of keeping the black wallpapers or mode or the github dark themes as i dont like that except for the visual studio and the code editors, where i write code and that makes code looks better visually, so i cant recommend anything in that respect. Here you can find a collection of themes if you are a avid and program most of the day to increase your vision and transparency and also to give your eyes a little bit rest [make_code_easier_visually](https://vscodethemes.com/). I have tested and used a lot of web-browsers and here are my personal recommendations: Vivaldi, if you are using broswer for extensive use and the features such as sorting the bookmarks according to the links is the most impressive one. I read a lot of material and once done, clean them out. This browser has helped me to do so in a very short time before coming to Germany as it clustered the links of the same sites together, no other browser supports the same. Microsoft Edge, which i am currently using and it works great. Brave browser, which i have used extensively and it is the strongest browser but it was taking too much ram on my old macbook and me having a old macbook, have to stop using that. 
 
 links for those programming languages that i am already and have been programming and those that i am learning new. I dont program in C anymore and gave up after a long time doing the same and still sometimes a little bit. a collection of repositories and libraries to follow and look for the newly emerging libraries and code development. I will update this page regularly to show the new code development and approaches towards understanding. These are basically the links that might help understand better. These are basically the links that i use to see something quickly rather than going around and searching for a lot of time, so basically i dont have to google simply visit the link and search for what i need specifically :-). Website i use for the wallpaper [wallpaper](https://pixabay.com/de/)
 
-Rest no book or code courses teaches you how to write code for specific applications, specific projects, specific roles and everything else. They simply teaches you how to put and declare variables, write functions and others. You have to put your efforts in writing the same. 
-
-If you are interested into developing your work cluture and ethics then you can read my working ethics for making your work culture and surroundings stronger. By implementing this you will only become stronger and not weaker.\
-[Ethics](https://github.com/sablokgaurav/code_language_recommendations_ethics/blob/main/ethics.read) 
+Rest no book or code courses teaches you how to write code for specific applications, specific projects, specific roles and everything else. They simply teaches you how to put and declare variables, write functions and others. You have to put your efforts in writing the same.  If you are interested into developing your work cluture and ethics then you can read my working ethics for making your work culture and surroundings stronger. By implementing this you will only become stronger and not weaker. [Ethics](https://github.com/sablokgaurav/code_language_recommendations_ethics/blob/main/ethics.read) 
 
 Best online conversion that you can use for any format. I use this only all the time mainly. \
 [cloudconvert](https://cloudconvert.com/)
@@ -18,81 +13,82 @@ The best github account readme \
 [ProfileMe.dev](https://www.profileme.dev/) \
 [Github Profile Maker](https://github-profile-maker.vercel.app/) 
 
-Code Program \
+Code Program Course Providers \
 [Exercism](https://exercism.org/) \
+[OpenHPI Course](https://open.hpi.de/)
+[image code](codeimage.dev) \
+[code developer](https://bloggingfordevs.com/trends/) \
+
+Code Python \
 [Python Institute](https://pythoninstitute.org/) \
-[Killer shell devops](https://killer.sh/) \
 [OpenEdge](https://edube.org/login) \
-[Terraform Cloud](https://app.terraform.io/session) \
 [python](https://pybuddy.com/) \
 [python package repository](https://pypi.org/) \
 [python](https://pythonrepo.com/) \
+[python](https://docs.python.org/3/) \
+[python packaging](https://packaging.python.org/en/latest/) \
+
+Code Ruby and R \
 [rubydocs](https://ruby-doc.org/) \
 [rubylatest](https://ruby-doc.org/3.3.0/) \
 [crystalAPI](https://crystal-lang.org/api/1.11.2/) \
-[python](https://docs.python.org/3/) \
-[python packaging](https://packaging.python.org/en/latest/) \
 [ruby lang](https://www.ruby-lang.org/en/documentation/) \
-[biotools](https://bio.tools/) \
-[code developer](https://bloggingfordevs.com/trends/) \
-[shell code](explainshell.com) \
-[regular expression](autoregex.xyz) \
-[regular pattern expressions](regex101.com) \
-[image code](codeimage.dev) \
-[API documentation browser](https://devdocs.io/) \
-[boto3 documentation](https://boto3.amazonaws.com/v1/documentation/api/latest/index.html) \
-[julia packages](https://juliapackages.com/c/data-science) \
-[gens julia packages](https://gensjulia.pages.dev/) \
 [ruby documentation](https://www.rubydoc.info/github) \
-[bioconductor](https://bioconductor.org/) \
-[rpackage](https://rdrr.io/) \
 [rubystaticcode](https://www.ruby-forum.com/tutorials) \
-[dockerhub](https://hub.docker.com/) \
-[trendingprojects](https://www.libhunt.com/) \
-[packagelibraries](https://libraries.io/) \
-[kubernetes](https://kubernetes.io/training/) \
+[rpackage](https://rdrr.io/) \
+
+Code Bioinformatics and Projects \
+[biotools](https://bio.tools/) \
+[bioconductor](https://bioconductor.org/) \
 [Hydra](https://hydra.cc/) \
 [Spektral Graph](https://graphneural.network/) \
 [Optuna](https://optuna.org/) \
+[trendingprojects](https://www.libhunt.com/) \
+[packagelibraries](https://libraries.io/) \
+
+Code Regular Expression \
+[Regular expression](autoregex.xyz) \
+[Regular pattern expressions](regex101.com) \
 [Regular expression](https://www.rexegg.com/) \
 [Regular expression informatics](https://www.regular-expressions.info/) \
-[julia algorithms and program code](https://julialang.org/learning/books/) \
-[julia lang](https://syl1.gitbook.io/julia-language-a-concise-tutorial) \
-[julia zoid](https://juliazoid.com/) \
-[julia machine learning](https://juliapackages.com/c/machine-learning) \
-[julia community](https://discourse.julialang.org/) \
-[julia forem](https://forem.julialang.org/) \
-[julia berlin group](https://julia-users-berlin.github.io/) \
-[julia gpu programming](https://juliagpu.org/) \
-[julia dev blog](https://dev.to/t/julia) 
 
-Quick look for the julia machine learning libraries \
+Code Julia Lang \
+[Julia packages](https://juliapackages.com/c/data-science) \
+[Gens julia packages](https://gensjulia.pages.dev/) \
+[Julia algorithms and program code](https://julialang.org/learning/books/) \
+[Julia lang](https://syl1.gitbook.io/julia-language-a-concise-tutorial) \
+[Julia zoid](https://juliazoid.com/) \
+[Julia machine learning](https://juliapackages.com/c/machine-learning) \
+[Julia community](https://discourse.julialang.org/) \
+[Julia forem](https://forem.julialang.org/) \
+[Julia berlin group](https://julia-users-berlin.github.io/) \
+[Julia gpu programming](https://juliagpu.org/) \
+[Julia dev blog](https://dev.to/t/julia) 
 [Text analysis](https://github.com/JuliaText) \
 [Intervals](https://github.com/JuliaIntervals) \
 [Image processing](https://github.com/JuliaImages) \
 [Bioinformatics](https://github.com/BioJulia) \
 [Graph modelling](https://github.com/JuliaGraphs) \
 [Cloud computing](https://github.com/JuliaCloud) \
-[web analysis](https://github.com/JuliaWeb) \
-[parallel programming](https://github.com/JuliaParallel) \
-[gpu programming](https://github.com/JuliaGPU) \
-[continous integration](https://github.com/JuliaCI) \
-[arrays](https://github.com/JuliaArrays) \
-[machine learning applications](https://github.com/SciML) \
-[machine learning](https://github.com/JuliaML) \
-[datascience](https://github.com/JuliaData) \
-[gaussian process](https://github.com/JuliaGaussianProcesses) \
-[metabolic modelling](https://github.com/opencobra/COBRA.jl) \
-[julia language server and function list](https://www.jlhub.com/julia/manual/en/) \
-[julia lang activated functions](https://www.jlhub.com/julia/manual/en/function-reference) \
-[julia lang not so detailed](https://julia.school/julia/) \
-[julia lang online book](https://syl1.gitbook.io/julia-language-a-concise-tutorial) \
-[julia lang](https://docs.julialang.org/en/v1/)
-[julia collections](https://github.com/JuliaCollections) \
-[julia sos](https://www.juliasos.com/) \
-[julia machine learning](https://adrianhill.de/julia-ml-course/) \
-[julia academy](https://juliaacademy.com/courses/) 
-[OpenHPI Course](https://open.hpi.de/)
+[Web analysis](https://github.com/JuliaWeb) \
+[Parallel programming](https://github.com/JuliaParallel) \
+[Gpu programming](https://github.com/JuliaGPU) \
+[Continous integration](https://github.com/JuliaCI) \
+[Arrays](https://github.com/JuliaArrays) \
+[Machine learning applications](https://github.com/SciML) \
+[Machine learning](https://github.com/JuliaML) \
+[Datascience](https://github.com/JuliaData) \
+[Gaussian process](https://github.com/JuliaGaussianProcesses) \
+[Metabolic modelling](https://github.com/opencobra/COBRA.jl) \
+[Julia language server and function list](https://www.jlhub.com/julia/manual/en/) \
+[Julia lang activated functions](https://www.jlhub.com/julia/manual/en/function-reference) \
+[Julia lang not so detailed](https://julia.school/julia/) \
+[Julia lang online book](https://syl1.gitbook.io/julia-language-a-concise-tutorial) \
+[Julia lang](https://docs.julialang.org/en/v1/)
+[Julia collections](https://github.com/JuliaCollections) \
+[Julia sos](https://www.juliasos.com/) \
+[Julia machine learning](https://adrianhill.de/julia-ml-course/) \
+[Julia academy](https://juliaacademy.com/courses/) 
 
 Communities that i follow and keep posting the code to: \
 [CrateDB](https://community.cratedb.com/) \
@@ -101,7 +97,8 @@ Communities that i follow and keep posting the code to: \
 [Streamlit](https://discuss.streamlit.io/) \
 [Posit](https://community.rstudio.com/) \
 [Python](https://www.python.org/community/) \
-[Python Community](https://discuss.python.org/) and [Python Community](https://www.python-forum.de/) \
+[Python Community](https://discuss.python.org/)\
+[Python Community](https://www.python-forum.de/) \
 [Rocker: A docker for the R](https://rocker-project.org/)
 
 Code Editors and Best DevOPs terminal clients and i think these all are sufficient enough for everything. \
@@ -125,11 +122,21 @@ compilation, which i have done previously to increase the run time efficiency. \
 [awk compiler three pass](https://benhoyt.com/writings/awkgo/)
 [mawk](https://man1.pgdp.sse.in.tum.de/mawk.1.html)
 
-Resources for the following examinations \
+DevOps and Administration  \
 [Linux Foundation](https://training.linuxfoundation.org/) \
 [AWS console](https://aws.amazon.com/console/) \
 [Cloud Native Computing Foundation](https://www.cncf.io/) \
 [Linux Professional](https://www.lpi.org/our-certifications/lpic-1-overview/) 
+[Killer shell devops](https://killer.sh/) \
+[Terraform Cloud](https://app.terraform.io/session) \
+[shell code](explainshell.com) \
+[API documentation browser](https://devdocs.io/) \
+[boto3 documentation](https://boto3.amazonaws.com/v1/documentation/api/latest/index.html) \
+[dockerhub](https://hub.docker.com/) \
+[kubernetes](https://kubernetes.io/training/) \
+
+Rules for better code strategies \
+1.  Keep a day off from the code and make it more attendable. Going through all the code, bug fixes and everything.
 
 Gaurav Sablok \
 Academic Staff Member \
