@@ -135,11 +135,21 @@ DevOps and Administration  \
 [dockerhub](https://hub.docker.com/) \
 [kubernetes](https://kubernetes.io/training/) 
 
+Customization \
+[ZSH plugins](https://github.com/unixorn/awesome-zsh-plugins)
+[Oh-my-Posh](https://github.com/JanDeDobbeleer/oh-my-posh)
+[Oh-my-ZSH](https://github.com/ohmyzsh/ohmyzsh)
+[ZSH completions](https://github.com/zsh-users/zsh-completions)
+[ZSH syntax highlighting](https://github.com/zsh-users/zsh-syntax-highlighting)
+[Antigen](https://github.com/zsh-users/antigen)
+[ZSH Autosuggestions](https://github.com/zsh-users/zsh-autosuggestions)
+
 Rules for better code strategies \
 1.  Keep a day off from the code and make it more attendable. Going through all the code, bug fixes and everything.
 2.  Dont go for all the programming languages, select which are necessary and develop them at scale.
 3.  Clean the code and also your forked repositories once a week, in which you are not programming or coding at all.
-4.  f"Focussed approach" yield f"Result" 
+4.  f"Focussed approach" yield f"Result"
+5.  There is no limit in customization and everything but i believe that this will do all work so i am not a big fan of daily customization terminals or themes.
 
 Gaurav Sablok \
 Academic Staff Member \
