@@ -17,7 +17,7 @@ Code Program Course Providers \
 [Exercism](https://exercism.org/) \
 [OpenHPI Course](https://open.hpi.de/)
 [image code](codeimage.dev) \
-[code developer](https://bloggingfordevs.com/trends/) \
+[code developer](https://bloggingfordevs.com/trends/) 
 
 Code Python \
 [Python Institute](https://pythoninstitute.org/) \
@@ -26,7 +26,7 @@ Code Python \
 [python package repository](https://pypi.org/) \
 [python](https://pythonrepo.com/) \
 [python](https://docs.python.org/3/) \
-[python packaging](https://packaging.python.org/en/latest/) \
+[python packaging](https://packaging.python.org/en/latest/) 
 
 Code Ruby and R \
 [rubydocs](https://ruby-doc.org/) \
@@ -35,7 +35,7 @@ Code Ruby and R \
 [ruby lang](https://www.ruby-lang.org/en/documentation/) \
 [ruby documentation](https://www.rubydoc.info/github) \
 [rubystaticcode](https://www.ruby-forum.com/tutorials) \
-[rpackage](https://rdrr.io/) \
+[rpackage](https://rdrr.io/) 
 
 Code Bioinformatics and Projects \
 [biotools](https://bio.tools/) \
@@ -44,13 +44,13 @@ Code Bioinformatics and Projects \
 [Spektral Graph](https://graphneural.network/) \
 [Optuna](https://optuna.org/) \
 [trendingprojects](https://www.libhunt.com/) \
-[packagelibraries](https://libraries.io/) \
+[packagelibraries](https://libraries.io/) 
 
 Code Regular Expression \
 [Regular expression](autoregex.xyz) \
 [Regular pattern expressions](regex101.com) \
 [Regular expression](https://www.rexegg.com/) \
-[Regular expression informatics](https://www.regular-expressions.info/) \
+[Regular expression informatics](https://www.regular-expressions.info/) 
 
 Code Julia Lang \
 [Julia packages](https://juliapackages.com/c/data-science) \
@@ -133,7 +133,7 @@ DevOps and Administration  \
 [API documentation browser](https://devdocs.io/) \
 [boto3 documentation](https://boto3.amazonaws.com/v1/documentation/api/latest/index.html) \
 [dockerhub](https://hub.docker.com/) \
-[kubernetes](https://kubernetes.io/training/) \
+[kubernetes](https://kubernetes.io/training/) 
 
 Rules for better code strategies \
 1.  Keep a day off from the code and make it more attendable. Going through all the code, bug fixes and everything.
