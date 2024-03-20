@@ -37,7 +37,8 @@ Code Ruby and R \
 [ruby lang](https://www.ruby-lang.org/en/documentation/) \
 [ruby documentation](https://www.rubydoc.info/github) \
 [rubystaticcode](https://www.ruby-forum.com/tutorials) \
-[rpackage](https://rdrr.io/) 
+[rpackage](https://rdrr.io/) \
+[modern data visualization with R](https://rkabacoff.github.io/datavis/)
 
 Code Bioinformatics and Projects \
 [biotools](https://bio.tools/) \
