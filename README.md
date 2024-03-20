@@ -91,6 +91,7 @@ Code Julia Lang \
 [Julia machine learning](https://adrianhill.de/julia-ml-course/) \
 [Julia academy](https://juliaacademy.com/courses/) \
 [Julia Book](https://github.com/JuliaBooks)
+[Julia Code Integrate](https://www.julia-vscode.org/docs/stable/)
 
 Communities that i follow and keep posting the code to: \
 [CrateDB](https://community.cratedb.com/) \
