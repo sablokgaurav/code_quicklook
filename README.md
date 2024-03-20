@@ -113,7 +113,7 @@ Graph Analysis \
 [HyenaDNA](https://hazyresearch.stanford.edu/blog/2023-03-07-hyena)
 
 
-Rules for better code strategies \
+Rules for better code strategies 
 1.  Keep a day off from the code and make it more attendable. Going through all the code, bug fixes and everything.
 2.  Dont go for all the programming languages, select which are necessary and develop them at scale.
 3.  Clean the code and also your forked repositories once a week, in which you are not programming or coding at all.
