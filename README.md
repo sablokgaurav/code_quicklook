@@ -11,7 +11,8 @@ Best online conversion that you can use for any format. I use this only all the 
 
 The best github account readme \
 [ProfileMe.dev](https://www.profileme.dev/) \
-[Github Profile Maker](https://github-profile-maker.vercel.app/) 
+[Github Profile Maker](https://github-profile-maker.vercel.app/) \
+[API References](https://www.linode.com/docs/guides/) 
 
 Code Program Course Providers \
 [Exercism](https://exercism.org/) \
@@ -148,6 +149,7 @@ Customization \
 
 Graph Analysis 
 [Graph tool](https://graph-tool.skewed.de/) \
+[Hugging Face](https://huggingface.co/learn/nlp-course/)
 
 
 Rules for better code strategies \
