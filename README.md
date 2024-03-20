@@ -52,6 +52,7 @@ Code Regular Expression \
 
 Code Julia Lang \
 [Julia porgramming code](https://b-lukaszuk.github.io/RJ_BS_eng/about.html) \
+[Julia Programming code](https://syl1.gitbook.io/julia-language-a-concise-tutorial) \
 [Julia packages](https://juliapackages.com/c/data-science) \
 [Gens julia packages](https://gensjulia.pages.dev/) \
 [Julia algorithms and program code](https://julialang.org/learning/books/) \
