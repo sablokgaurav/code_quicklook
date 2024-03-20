@@ -91,30 +91,30 @@ Code Julia Lang \
 [Julia sos](https://www.juliasos.com/) \
 [Julia machine learning](https://adrianhill.de/julia-ml-course/) \
 [Julia academy](https://juliaacademy.com/courses/) \
-[Julia Book](https://github.com/JuliaBooks)
-[Julia Code Integrate](https://www.julia-vscode.org/docs/stable/)
-[Julia Docs](https://github.com/JuliaDocs)
-[Julia Logging](https://github.com/JuliaLogging)
-[Julia IO](https://github.com/JuliaIO)
-[Julia Random](https://github.com/JuliaRandom)
-[Julia Graphics](https://github.com/JuliaGraphics)
-[Julia Packaging](https://github.com/JuliaPackaging)
-[Julia Python](https://github.com/JuliaPy)
-[Julia Sparse Matrix](https://github.com/JuliaSparse)
-[Julia Services](https://github.com/JuliaServices)
-[Julia Actions](https://github.com/julia-actions)
-[Julia Apache Arrow](https://github.com/apache/arrow-julia)
-[Julia Registeries](https://github.com/JuliaRegistries)
-[Julia Rust bindings](https://github.com/Taaitaaiger/jlrs)
-[Julia Open Source Machine Learning](https://github.com/SciML)
-[Julia Continous Integration](https://github.com/JuliaCI)
-[Julia Pluto Notebook](https://github.com/JuliaPluto)
-[Julia Web](https://github.com/JuliaWeb)
-[Julia Logging](https://github.com/JuliaLogging)
-[Julia DSP](https://github.com/JuliaDSP)
-[Julia Ecosystem](https://github.com/JuliaEcosystem)
-[Julia Bioinformatics and Computational Biology](https://github.com/BioJulia)
-[Julia jumpde](https://github.com/jump-dev)
+[Julia Book](https://github.com/JuliaBooks) \
+[Julia Code Integrate](https://www.julia-vscode.org/docs/stable/) \
+[Julia Docs](https://github.com/JuliaDocs) \
+[Julia Logging](https://github.com/JuliaLogging) \
+[Julia IO](https://github.com/JuliaIO) \
+[Julia Random](https://github.com/JuliaRandom) \
+[Julia Graphics](https://github.com/JuliaGraphics) \
+[Julia Packaging](https://github.com/JuliaPackaging) \
+[Julia Python](https://github.com/JuliaPy) \
+[Julia Sparse Matrix](https://github.com/JuliaSparse) \
+[Julia Services](https://github.com/JuliaServices) \
+[Julia Actions](https://github.com/julia-actions) \
+[Julia Apache Arrow](https://github.com/apache/arrow-julia) \
+[Julia Registeries](https://github.com/JuliaRegistries) \
+[Julia Rust bindings](https://github.com/Taaitaaiger/jlrs) \
+[Julia Open Source Machine Learning](https://github.com/SciML) \
+[Julia Continous Integration](https://github.com/JuliaCI) \
+[Julia Pluto Notebook](https://github.com/JuliaPluto) \
+[Julia Web](https://github.com/JuliaWeb) \
+[Julia Logging](https://github.com/JuliaLogging) \
+[Julia DSP](https://github.com/JuliaDSP) \
+[Julia Ecosystem](https://github.com/JuliaEcosystem) \
+[Julia Bioinformatics and Computational Biology](https://github.com/BioJulia) \
+[Julia jumpde](https://github.com/jump-dev) \
 [Julia Linear Algebra](https://github.com/JuliaLinearAlgebra)
 
 Communities that i follow and keep posting the code to: \
