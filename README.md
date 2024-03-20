@@ -13,6 +13,7 @@ The best github account readme \
 [ProfileMe.dev](https://www.profileme.dev/) \
 [Github Profile Maker](https://github-profile-maker.vercel.app/) \
 [API References](https://www.linode.com/docs/guides/) 
+[Awesome list](https://project-awesome.org/)
 
 Code Program Course Providers \
 [Exercism](https://exercism.org/) \
@@ -92,6 +93,13 @@ Code Julia Lang \
 [Julia academy](https://juliaacademy.com/courses/) \
 [Julia Book](https://github.com/JuliaBooks)
 [Julia Code Integrate](https://www.julia-vscode.org/docs/stable/)
+[Julia Docs](https://github.com/JuliaDocs)
+[Julia Logging](https://github.com/JuliaLogging)
+[Julia IO](https://github.com/JuliaIO)
+[Julia Random](https://github.com/JuliaRandom)
+[Julia Graphics](https://github.com/JuliaGraphics)
+[Julia Packaging](https://github.com/JuliaPackaging)
+
 
 Communities that i follow and keep posting the code to: \
 [CrateDB](https://community.cratedb.com/) \
