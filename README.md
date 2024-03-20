@@ -38,8 +38,9 @@ Code Ruby and R \
 [ruby documentation](https://www.rubydoc.info/github) \
 [rubystaticcode](https://www.ruby-forum.com/tutorials) \
 [rpackage](https://rdrr.io/) \
-[modern data visualization with R](https://rkabacoff.github.io/datavis/)
-[Siny Express](https://shiny.posit.co/blog/posts/shiny-express/)
+[modern data visualization with R](https://rkabacoff.github.io/datavis/) \
+[Siny Express](https://shiny.posit.co/blog/posts/shiny-express/) \
+[Bayesian Network](https://www.bnlearn.com/)
 
 Code Bioinformatics and Projects \
 [biotools](https://bio.tools/) \
