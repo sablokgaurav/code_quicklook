@@ -146,6 +146,10 @@ Customization \
 [Antigen](https://github.com/zsh-users/antigen) \
 [ZSH Autosuggestions](https://github.com/zsh-users/zsh-autosuggestions) 
 
+Graph Analysis 
+[Graph tool](https://graph-tool.skewed.de/) \
+
+
 Rules for better code strategies \
 1.  Keep a day off from the code and make it more attendable. Going through all the code, bug fixes and everything.
 2.  Dont go for all the programming languages, select which are necessary and develop them at scale.
