@@ -39,6 +39,7 @@ Code Ruby and R \
 [rubystaticcode](https://www.ruby-forum.com/tutorials) \
 [rpackage](https://rdrr.io/) \
 [modern data visualization with R](https://rkabacoff.github.io/datavis/)
+[Siny Express](https://shiny.posit.co/blog/posts/shiny-express/)
 
 Code Bioinformatics and Projects \
 [biotools](https://bio.tools/) \
@@ -101,6 +102,7 @@ DevOps and Administration  \
 [kubernetes](https://kubernetes.io/training/) \
 [Terraform Developer](https://developer.hashicorp.com/terraform)
 [Terraform Tutorials](https://developer.hashicorp.com/terraform/tutorials)
+[DevOPs Resources](https://devopscube.com/list-of-devops-blogs-and-resources/)
 
 Customization \
 [ZSH plugins](https://github.com/unixorn/awesome-zsh-plugins) \
