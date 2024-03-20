@@ -88,6 +88,7 @@ compilation, which i have done previously to increase the run time efficiency. \
 [allcaps](https://github.com/dbohdan/all-caps-basic) A compiler written in Awk. \
 [awk compiler three pass](https://benhoyt.com/writings/awkgo/) \
 [mawk](https://man1.pgdp.sse.in.tum.de/mawk.1.html)
+[gawk](https://www.gnu.org/software/gawk/manual/gawk.html)
 
 DevOps and Administration  \
 [Linux Foundation](https://training.linuxfoundation.org/) \
