@@ -1,23 +1,19 @@
-# code_ethics
+### code_ethics 
+I am not a fan of keeping the black wallpapers or mode or the github dark themes as i dont like that except for the visual studio and the code editors, where i write code and that makes code looks better visually, so i cant recommend anything in that respect. Here you can find a collection of themes if you are a avid and program most of the day to increase your vision and transparency and also to give your eyes a little bit rest [make_code_easier_visually](https://vscodethemes.com/). I have tested and used a lot of web-browsers and here are my personal recommendations: Vivaldi, if you are using broswer for extensive use and the features such as sorting the bookmarks according to the links is the most impressive one. I read a lot of material and once done, clean them out. This browser has helped me to do so in a very short time before coming to Germany as it clustered the links of the same sites together, no other browser supports the same. Microsoft Edge, which i am currently using and it works great. Brave browser, which i have used extensively and it is the strongest browser but it was taking too much ram on my old macbook and me having a old macbook, have to stop using that. links for those programming languages that i am already and have been programming and those that i am learning new. I dont program in C anymore and gave up after a long time doing the same and still sometimes a little bit. a collection of repositories and libraries to follow and look for the newly emerging libraries and code development. I will update this page regularly to show the new code development and approaches towards understanding. These are basically the links that might help understand better. These are basically the links that i use to see something quickly rather than going around and searching for a lot of time, so basically i dont have to google simply visit the link and search for what i need specifically :-). Website i use for the wallpaper [wallpaper](https://pixabay.com/de/)
 
-I am not a fan of keeping the black wallpapers or mode or the github dark themes as i dont like that except for the visual studio and the code editors, where i write code and that makes code looks better visually, so i cant recommend anything in that respect. Here you can find a collection of themes if you are a avid and program most of the day to increase your vision and transparency and also to give your eyes a little bit rest [make_code_easier_visually](https://vscodethemes.com/). I have tested and used a lot of web-browsers and here are my personal recommendations: Vivaldi, if you are using broswer for extensive use and the features such as sorting the bookmarks according to the links is the most impressive one. I read a lot of material and once done, clean them out. This browser has helped me to do so in a very short time before coming to Germany as it clustered the links of the same sites together, no other browser supports the same. Microsoft Edge, which i am currently using and it works great. Brave browser, which i have used extensively and it is the strongest browser but it was taking too much ram on my old macbook and me having a old macbook, have to stop using that. 
+Rest no book or code courses teaches you how to write code for specific applications, specific projects, specific roles and everything else. They simply teaches you how to put and declare variables, write functions and others. You have to put your efforts in writing the same.  If you are interested into developing your work cluture and ethics then you can read my working ethics for making your work culture and surroundings stronger. By implementing this you will only become stronger and not weaker. You can read it here and at the same time, kindly add so that I can broaden my working style and develop my mindset further as I believe in taking constructive approaches. [You can read the ethics here](https://github.com/sablokgaurav/code_language_recommendations_ethics/blob/main/ethics.read)
 
-links for those programming languages that i am already and have been programming and those that i am learning new. I dont program in C anymore and gave up after a long time doing the same and still sometimes a little bit. a collection of repositories and libraries to follow and look for the newly emerging libraries and code development. I will update this page regularly to show the new code development and approaches towards understanding. These are basically the links that might help understand better. These are basically the links that i use to see something quickly rather than going around and searching for a lot of time, so basically i dont have to google simply visit the link and search for what i need specifically :-). Website i use for the wallpaper [wallpaper](https://pixabay.com/de/)
-
-Rest no book or code courses teaches you how to write code for specific applications, specific projects, specific roles and everything else. They simply teaches you how to put and declare variables, write functions and others. You have to put your efforts in writing the same.  If you are interested into developing your work cluture and ethics then you can read my working ethics for making your work culture and surroundings stronger. By implementing this you will only become stronger and not weaker. [Ethics](https://github.com/sablokgaurav/code_language_recommendations_ethics/blob/main/ethics.read) 
-
-Best online conversion that you can use for any format. I use this only all the time mainly. \
-[cloudconvert](https://cloudconvert.com/)
+Best online conversion that you can use for any format. I use this only all the time mainly. [cloudconvert](https://cloudconvert.com/)
 
 The best github account readme \
 [ProfileMe.dev](https://www.profileme.dev/) \
 [Github Profile Maker](https://github-profile-maker.vercel.app/) \
-[API References](https://www.linode.com/docs/guides/) 
+[API References](https://www.linode.com/docs/guides/) \
 [Awesome list](https://project-awesome.org/)
 
 Code Program Course Providers \
 [Exercism](https://exercism.org/) \
-[OpenHPI Course](https://open.hpi.de/)
+[OpenHPI Course](https://open.hpi.de/) \
 [image code](codeimage.dev) \
 [code developer](https://bloggingfordevs.com/trends/) 
 
@@ -55,7 +51,7 @@ Code Regular Expression \
 [Regular expression informatics](https://www.regular-expressions.info/) 
 
 Code Julia Lang \
-[Julia porgramming code](https://b-lukaszuk.github.io/RJ_BS_eng/about.html)
+[Julia porgramming code](https://b-lukaszuk.github.io/RJ_BS_eng/about.html) \
 [Julia packages](https://juliapackages.com/c/data-science) \
 [Gens julia packages](https://gensjulia.pages.dev/) \
 [Julia algorithms and program code](https://julialang.org/learning/books/) \
@@ -66,7 +62,7 @@ Code Julia Lang \
 [Julia forem](https://forem.julialang.org/) \
 [Julia berlin group](https://julia-users-berlin.github.io/) \
 [Julia gpu programming](https://juliagpu.org/) \
-[Julia dev blog](https://dev.to/t/julia) 
+[Julia dev blog](https://dev.to/t/julia) \
 [Text analysis](https://github.com/JuliaText) \
 [Intervals](https://github.com/JuliaIntervals) \
 [Image processing](https://github.com/JuliaImages) \
@@ -87,7 +83,7 @@ Code Julia Lang \
 [Julia lang activated functions](https://www.jlhub.com/julia/manual/en/function-reference) \
 [Julia lang not so detailed](https://julia.school/julia/) \
 [Julia lang online book](https://syl1.gitbook.io/julia-language-a-concise-tutorial) \
-[Julia lang](https://docs.julialang.org/en/v1/)
+[Julia lang](https://docs.julialang.org/en/v1/) \
 [Julia collections](https://github.com/JuliaCollections) \
 [Julia sos](https://www.juliasos.com/) \
 [Julia machine learning](https://adrianhill.de/julia-ml-course/) \
