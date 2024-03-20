@@ -173,7 +173,7 @@ Customization \
 [Antigen](https://github.com/zsh-users/antigen) \
 [ZSH Autosuggestions](https://github.com/zsh-users/zsh-autosuggestions) 
 
-Graph Analysis 
+Graph Analysis \
 [Graph tool](https://graph-tool.skewed.de/) \
 [Hugging Face](https://huggingface.co/learn/nlp-course/) \
 [HyenaDNA](https://hazyresearch.stanford.edu/blog/2023-06-29-hyena-dna) \
