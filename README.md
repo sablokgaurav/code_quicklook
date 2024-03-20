@@ -149,7 +149,9 @@ Customization \
 
 Graph Analysis 
 [Graph tool](https://graph-tool.skewed.de/) \
-[Hugging Face](https://huggingface.co/learn/nlp-course/)
+[Hugging Face](https://huggingface.co/learn/nlp-course/) \
+[HyenaDNA](https://hazyresearch.stanford.edu/blog/2023-06-29-hyena-dna) \
+[HyenaDNA](https://hazyresearch.stanford.edu/blog/2023-03-07-hyena)
 
 
 Rules for better code strategies \
