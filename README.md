@@ -89,7 +89,8 @@ Code Julia Lang \
 [Julia collections](https://github.com/JuliaCollections) \
 [Julia sos](https://www.juliasos.com/) \
 [Julia machine learning](https://adrianhill.de/julia-ml-course/) \
-[Julia academy](https://juliaacademy.com/courses/) 
+[Julia academy](https://juliaacademy.com/courses/) \
+[Julia Book](https://github.com/JuliaBooks)
 
 Communities that i follow and keep posting the code to: \
 [CrateDB](https://community.cratedb.com/) \
