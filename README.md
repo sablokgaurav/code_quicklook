@@ -92,7 +92,7 @@ compilation, which i have done previously to increase the run time efficiency. \
 [awka](https://github.com/noyesno/awka) Awk to C compiler \
 [allcaps](https://github.com/dbohdan/all-caps-basic) A compiler written in Awk. \
 [awk compiler three pass](https://benhoyt.com/writings/awkgo/) \
-[mawk](https://man1.pgdp.sse.in.tum.de/mawk.1.html)
+[mawk](https://man1.pgdp.sse.in.tum.de/mawk.1.html) \
 [gawk](https://www.gnu.org/software/gawk/manual/gawk.html)
 
 DevOps and Administration  \
