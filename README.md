@@ -7,7 +7,7 @@ These are basically the links that might help understand better. These are basic
 
 Rest no book or code courses teaches you how to write code for specific applications, specific projects, specific roles and everything else. They simply teaches you how to put and declare variables, write functions and others. You have to put your efforts and this comes from applications and writing yourself the same.  If you are interested into developing your work culture and ethics then you can read my working ethics for making your work culture and surroundings stronger. By implementing this you will only become stronger and not weaker. You can read it here and at the same time, kindly add so that I can broaden my working style and develop my mindset further as I believe in taking constructive approaches. [You can read the ethics here](https://github.com/sablokgaurav/code_language_recommendations_ethics/blob/main/ethics.read)
 
-Best online conversion that you can use for any format. I use this only all the time mainly. [cloudconvert](https://cloudconvert.com/)
+Best online conversion that you can use for any format. I use this only all the time mainly. [cloudconvert](https://cloudconvert.com/) and in case you are writing still C++ then the reference link for the C++ [cppreference](https://en.cppreference.com/w/)
 
 The best github account readme \
 [ProfileMe.dev](https://www.profileme.dev/) \
