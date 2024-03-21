@@ -1,14 +1,14 @@
 ### code_ethics 
-I am not a fan of keeping the black wallpapers or mode or the github dark themes as i dont like that except for the visual studio and the code editors, where i write code and that makes code looks better visually, so i cant recommend anything in that respect. Here you can find a collection of themes if you are a avid and program most of the day to increase your vision and transparency and also to give your eyes a little bit rest [vscode_themes](https://vscodethemes.com/).
+#### This page is used for quick look when you are coding and you forgot some function or something. It doesnt provide any code itself. 
+##### I dont use AI for generating code. 
 
-I have tested and used a lot of web-browsers and here are my personal recommendations: Vivaldi, Brave, Microsoft Edge. I will update this page regularly to show the new code development and approaches towards understanding. 
+If you program and write code most of the day then to increase your vision and transparency and also to give your eyes a little bit rest, you  can find some themes here: [vscode_themes](https://vscodethemes.com/). I have tested and used a lot of web-browsers and here are my personal recommendations: Vivaldi, Brave, Microsoft Edge. These are basically the links that might help understand better and if i have to see something quickly rather than going around and searching for a lot of time, so basically i dont have to google simply visit the link and search for what i need specifically :-).
 
-These are basically the links that might help understand better. These are basically the links that i use to see something quickly rather than going around and searching for a lot of time, so basically i dont have to google simply visit the link and search for what i need specifically :-).
+Rest no book or code courses teaches you how to write code for specific applications, specific projects, specific roles and everything else. They simply teaches you how to put and declare variables, write functions and others. You have to put your efforts and this comes from applications and writing yourself the same.  
 
-Rest no book or code courses teaches you how to write code for specific applications, specific projects, specific roles and everything else. They simply teaches you how to put and declare variables, write functions and others. You have to put your efforts and this comes from applications and writing yourself the same.  If you are interested into developing your work culture and ethics then you can read my working ethics for making your work culture and surroundings stronger. By implementing this you will only become stronger and not weaker. You can read it here and at the same time, kindly add so that I can broaden my working style and develop my mindset further as I believe in taking constructive approaches. [You can read the ethics here](https://github.com/sablokgaurav/code_language_recommendations_ethics/blob/main/ethics.read)
+If you are interested into developing your work culture and ethics then you can read my working ethics for making your work culture and surroundings stronger. By implementing this you will only become stronger and not weaker. You can read it here and at the same time, kindly add so that I can broaden my working style and develop my mindset further as I believe in taking constructive approaches. [You can read the ethics here](https://github.com/sablokgaurav/code_language_recommendations_ethics/blob/main/ethics.read)
 
 Best online conversion that you can use for any format. I use this only all the time mainly. [cloudconvert](https://cloudconvert.com/) and in case you are writing still C++ then the reference link for the C++ [cppreference] (https://en.cppreference.com/w/) and i previously also coded in Scala and you can find at [Scala](https://www.scala-lang.org/)
-
 
 The best github account readme \
 [ProfileMe.dev](https://www.profileme.dev/) \
@@ -18,6 +18,7 @@ The best github account readme \
 
 Markdown: The detail markdown quick check sheet
 [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+[Markdown new](https://www.markdownguide.org/)
 
 Code Program Course Providers \
 [Exercism](https://exercism.org/) \
@@ -124,7 +125,6 @@ Graph Analysis \
 [Hugging Face](https://huggingface.co/learn/nlp-course/) \
 [HyenaDNA](https://hazyresearch.stanford.edu/blog/2023-06-29-hyena-dna) \
 [HyenaDNA](https://hazyresearch.stanford.edu/blog/2023-03-07-hyena)
-
 
 Rules for better code strategies 
 1.  Keep a day off from the code and make it more attendable. Going through all the code, bug fixes and everything.
