@@ -16,6 +16,9 @@ The best github account readme \
 [API References](https://www.linode.com/docs/guides/) \
 [Awesome list](https://project-awesome.org/)
 
+Markdown: The detail markdown quick check sheet
+[Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+
 Code Program Course Providers \
 [Exercism](https://exercism.org/) \
 [OpenHPI Course](https://open.hpi.de/) \
