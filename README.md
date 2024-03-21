@@ -1,6 +1,5 @@
 ### code_ethics 
-#### This page is used for quick look when you are coding and you forgot some function or something as a reference. It doesnt provide any code itself. 
-##### I dont use AI for generating code as my code are specific for each project and have defined specifications and approaches. 
+#### This page is used for quick look when you are coding and you forgot some function or something as a reference. It doesnt provide any code itself. I dont use AI or ChatGPT for generating code as my code are specific for each project and have defined specifications and approaches. 
 
 If you program and write code most of the day then to increase your vision and transparency and also to give your eyes a little bit rest, you  can find some themes here: [vscode_themes](https://vscodethemes.com/). I have tested and used a lot of web-browsers and here are my personal recommendations: Vivaldi, Brave, Microsoft Edge. These are basically the links that might help understand better and if i have to see something quickly rather than going around and searching for a lot of time, so basically i dont have to google simply visit the link and search for what i need specifically :-).
 
