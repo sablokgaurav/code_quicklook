@@ -8,7 +8,7 @@ Rest no book or code courses teaches you how to write code for specific applicat
 
 If you are interested into developing your work culture and ethics then you can read my working ethics for making your work culture and surroundings stronger. By implementing this you will only become stronger and not weaker. You can read it here and at the same time, kindly add so that I can broaden my working style and develop my mindset further as I believe in taking constructive approaches. [You can read the ethics here](https://github.com/sablokgaurav/code_language_recommendations_ethics/blob/main/ethics.read)
 
-Best online conversion that you can use for any format. I use this only all the time mainly. [cloudconvert](https://cloudconvert.com/) and in case you are writing still C++ then the reference link for the C++ [cppreference] (https://en.cppreference.com/w/) and i previously also coded in Scala and you can find at [Scala](https://www.scala-lang.org/)
+Best online conversion that you can use for any format. I use this only all the time mainly. [cloudconvert](https://cloudconvert.com/) and in case you are writing still C++ then the reference link for the C++  [cppreference](https://en.cppreference.com/w/) and i previously also coded in Scala and you can find at [Scala](https://www.scala-lang.org/)
 
 The best github account readme \
 [ProfileMe.dev](https://www.profileme.dev/) \
