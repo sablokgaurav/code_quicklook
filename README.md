@@ -38,6 +38,7 @@ Code Python \
 Code Ruby and R \
 [rubydocs](https://ruby-doc.org/) \
 [rubylatest](https://ruby-doc.org/3.3.0/) \
+[ruby bindings](https://aj-foster.com/2015/ruby-bindings/)
 [crystalAPI](https://crystal-lang.org/api/1.11.2/) \
 [ruby lang](https://www.ruby-lang.org/en/documentation/) \
 [ruby documentation](https://www.rubydoc.info/github) \
