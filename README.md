@@ -1,8 +1,6 @@
-#### code This page is used for quick look when you are coding and you forgot some function or something as a reference. It doesnt provide any code itself. 
+#### code This page is used for quick look when you are coding and you forgot some function or something as a reference. It doesnt provide any code itself. Rest no book or code courses teaches you how to write code for specific applications, specific projects, specific roles and everything else. They simply teaches you how to put and declare variables, write functions and others. You have to put your efforts and this comes from applications and writing yourself the same.  
 
-If you program and write code most of the day then to increase your vision and transparency and also to give your eyes a little bit rest, you  can find some themes here: [vscode_themes](https://vscodethemes.com/). I have tested and used a lot of web-browsers and here are my personal recommendations: Vivaldi, Brave, Microsoft Edge. These are basically the links that might help understand better and if i have to see something quickly rather than going around and searching for a lot of time, so basically i dont have to google simply visit the link and search for what i need specifically :-).
-
-Rest no book or code courses teaches you how to write code for specific applications, specific projects, specific roles and everything else. They simply teaches you how to put and declare variables, write functions and others. You have to put your efforts and this comes from applications and writing yourself the same.  
+If you program and write code most of the day then to increase your vision and transparency and also to give your eyes a little bit rest, you  can find some themes here: [vscode_themes](https://vscodethemes.com/). 
 
 Best online conversion that you can use for any format. I use this only all the time mainly. [cloudconvert](https://cloudconvert.com/) and in case you are writing still C++ then the reference link for the C++  [cppreference](https://en.cppreference.com/w/) 
 
