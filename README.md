@@ -9,7 +9,8 @@ The best github account readme \
 [Github Profile Maker](https://github-profile-maker.vercel.app/) \
 [API References](https://www.linode.com/docs/guides/) \
 [Awesome list](https://project-awesome.org/) \
-[Top Programming Languages Index](https://www.tiobe.com/tiobe-index/)
+[Top Programming Languages Index](https://www.tiobe.com/tiobe-index/) \
+[Anaconda package repository](https://anaconda.org/anaconda/repo)
 
 Markdown: The detail markdown quick check sheet
 [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) \
