@@ -125,9 +125,9 @@ Graph Analysis \
 [HyenaDNA](https://hazyresearch.stanford.edu/blog/2023-03-07-hyena)
 
 ###### Rules for better code strategies 
-:thumbsup:  Keep a day off from the code and make it more attendable. Going through all the code, bug fixes and everything.
-:thumbsup:  Dont go for all the programming languages, select which are necessary and develop them. 
-:thumbsup:  Clean the code and also forked repositories once a week, in which you are not programming or coding at all.
+:thumbsup:  Keep a day off from the code and make it more attendable. Going through all the code, bug fixes and everything. \
+:thumbsup:  Dont go for all the programming languages, select which are necessary and develop them. \
+:thumbsup:  Clean the code and also forked repositories once a week, in which you are not programming or coding at all.\
 :thumbsup:  There is no limit in customization and everything but i believe that this will do all work so i am not a big fan of daily customization terminals or themes.
 
 Gaurav Sablok \
