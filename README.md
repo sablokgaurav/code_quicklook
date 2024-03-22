@@ -43,7 +43,8 @@ Code Ruby and R \
 [rpackage](https://rdrr.io/) \
 [modern data visualization with R](https://rkabacoff.github.io/datavis/) \
 [Siny Express](https://shiny.posit.co/blog/posts/shiny-express/) \
-[Bayesian Network](https://www.bnlearn.com/)
+[Bayesian Network](https://www.bnlearn.com/) \
+[Shiny Themes](https://rstudio.github.io/shinythemes/) 
 
 Code Bioinformatics and Projects \
 [biotools](https://bio.tools/) \
@@ -106,11 +107,13 @@ DevOps and Administration  \
 [boto3 documentation](https://boto3.amazonaws.com/v1/documentation/api/latest/index.html) \
 [dockerhub](https://hub.docker.com/) \
 [kubernetes](https://kubernetes.io/training/) \
-[Terraform Developer](https://developer.hashicorp.com/terraform)
-[Terraform Tutorials](https://developer.hashicorp.com/terraform/tutorials)
-[DevOPs Resources](https://devopscube.com/list-of-devops-blogs-and-resources/)
-[DevConnected](https://devconnected.com/)
-[CrateDB Cloud](https://console.cratedb.cloud/)
+[Terraform Developer](https://developer.hashicorp.com/terraform) \
+[Terraform Tutorials](https://developer.hashicorp.com/terraform/tutorials) \
+[DevOPs Resources](https://devopscube.com/list-of-devops-blogs-and-resources/) \
+[DevConnected](https://devconnected.com/) \
+[CrateDB Cloud](https://console.cratedb.cloud/) \
+[GitOPs](https://learning.codefresh.io/course/gitops-with-argo) \
+[Terraform Cloud](https://app.terraform.io/session)
 
 Customization \
 [ZSH plugins](https://github.com/unixorn/awesome-zsh-plugins) \
