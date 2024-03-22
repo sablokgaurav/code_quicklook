@@ -6,6 +6,7 @@ Best online conversion that you can use for any format. I use this only all the 
 
 The best github account readme \
 [ProfileMe.dev](https://www.profileme.dev/) \
+[All Badges](https://home.aveek.io/GitHub-Profile-Badges/) \
 [Github Profile Maker](https://github-profile-maker.vercel.app/) \
 [API References](https://www.linode.com/docs/guides/) \
 [Awesome list](https://project-awesome.org/) \
