@@ -1,11 +1,8 @@
-### code_ethics 
-#### This page is used for quick look when you are coding and you forgot some function or something as a reference. It doesnt provide any code itself. I dont use AI or ChatGPT for generating code as my code are specific for each project and have defined specifications and approaches. 
+#### code This page is used for quick look when you are coding and you forgot some function or something as a reference. It doesnt provide any code itself. 
 
 If you program and write code most of the day then to increase your vision and transparency and also to give your eyes a little bit rest, you  can find some themes here: [vscode_themes](https://vscodethemes.com/). I have tested and used a lot of web-browsers and here are my personal recommendations: Vivaldi, Brave, Microsoft Edge. These are basically the links that might help understand better and if i have to see something quickly rather than going around and searching for a lot of time, so basically i dont have to google simply visit the link and search for what i need specifically :-).
 
 Rest no book or code courses teaches you how to write code for specific applications, specific projects, specific roles and everything else. They simply teaches you how to put and declare variables, write functions and others. You have to put your efforts and this comes from applications and writing yourself the same.  
-
-If you are interested into developing your work culture and ethics then you can read my working ethics for making your work culture and surroundings stronger. By implementing this you will only become stronger and not weaker. You can read it here and at the same time, kindly add so that I can broaden my working style and develop my mindset further as I believe in taking constructive approaches. [You can read the ethics here](https://github.com/sablokgaurav/code_language_recommendations_ethics/blob/main/ethics.read)
 
 Best online conversion that you can use for any format. I use this only all the time mainly. [cloudconvert](https://cloudconvert.com/) and in case you are writing still C++ then the reference link for the C++  [cppreference](https://en.cppreference.com/w/) 
 
@@ -127,12 +124,11 @@ Graph Analysis \
 [HyenaDNA](https://hazyresearch.stanford.edu/blog/2023-06-29-hyena-dna) \
 [HyenaDNA](https://hazyresearch.stanford.edu/blog/2023-03-07-hyena)
 
-Rules for better code strategies 
-1.  Keep a day off from the code and make it more attendable. Going through all the code, bug fixes and everything.
-2.  Dont go for all the programming languages, select which are necessary and develop them at scale.
-3.  Clean the code and also your forked repositories once a week, in which you are not programming or coding at all.
-4.  f"Focussed approach" yield f"Result"
-5.  There is no limit in customization and everything but i believe that this will do all work so i am not a big fan of daily customization terminals or themes.
+###### Rules for better code strategies 
+:thumbsup:  Keep a day off from the code and make it more attendable. Going through all the code, bug fixes and everything.
+:thumbsup:  Dont go for all the programming languages, select which are necessary and develop them. 
+:thumbsup:  Clean the code and also forked repositories once a week, in which you are not programming or coding at all.
+:thumbsup:  There is no limit in customization and everything but i believe that this will do all work so i am not a big fan of daily customization terminals or themes.
 
 Gaurav Sablok \
 Academic Staff Member \
