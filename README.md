@@ -69,7 +69,7 @@ Communities that i follow and keep posting the code to: \
 [Python Community](https://www.python-forum.de/) \
 [Rocker: A docker for the R](https://rocker-project.org/)
 
-Code Editors and Best DevOPs terminal clients and i think these all are sufficient enough for everything. \
+Code Editors and DevOPs terminal clients and i think these all are sufficient enough for everything. \
 [tabby](https://github.com/Eugeny/tabby) \
 [warp](https://github.com/warpdotdev/Warp) \
 [VSCode](https://code.visualstudio.com/) \
@@ -106,6 +106,8 @@ DevOps and Administration  \
 [Terraform Developer](https://developer.hashicorp.com/terraform)
 [Terraform Tutorials](https://developer.hashicorp.com/terraform/tutorials)
 [DevOPs Resources](https://devopscube.com/list-of-devops-blogs-and-resources/)
+[DevConnected](https://devconnected.com/)
+[CrateDB Cloud](https://console.cratedb.cloud/)
 
 Customization \
 [ZSH plugins](https://github.com/unixorn/awesome-zsh-plugins) \
