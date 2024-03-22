@@ -79,7 +79,8 @@ Code Editors and DevOPs terminal clients and i think these all are sufficient en
 [Sublime](https://www.sublimetext.com/index2) \
 [Sublime Merge](https://www.sublimemerge.com/) \
 [Zed](https://github.com/zed-industries/zed) \
-[Wezterm](https://github.com/wez/wezterm) 
+[Wezterm](https://github.com/wez/wezterm) \
+[spyder](https://www.spyder-ide.org/)
 
 AWK compilers: I am writing a new Awk library and was actually searching for better than the normal \
 compilation, which i have done previously to increase the run time efficiency. \
