@@ -166,7 +166,7 @@ This page is used for quick look when I am coding and I forgot some inbuilt func
 [dev connected](https://devconnected.com/) \
 [cratedb cloud](https://console.cratedb.cloud/) \
 [gitops](https://learning.codefresh.io/course/gitops-with-argo) \
-[warp workflow writer](https://github.com/warpdotdev/workflows) \
+[warp workflow writer](https://github.com/warpdotdev/workflows) 
 
 > repositories that are important for terraform \
 [terraform aws](https://github.com/sablokgaurav/terraform-aws-eks) \
@@ -203,10 +203,10 @@ This page is used for quick look when I am coding and I forgot some inbuilt func
 
 
 ###### Rules for better code strategies 
-:thumbsup:  Keep a day off from the code and make it more attendable. Going through all the code, bug fixes and everything. \
-:thumbsup:  Dont go for all the programming languages, select which are necessary and develop them. \
-:thumbsup:  Clean the code and also forked repositories once a week, in which you are not programming or coding at all.\
-:thumbsup:  There is no limit in customization and everything but i believe that this will do all work so i am not a big fan of daily customization terminals or themes.
+▶️  Keep a day off from the code and make it more attendable. Going through all the code, bug fixes and everything. \
+▶️  Dont go for all the programming languages, select which are necessary and develop them. \
+▶️  Clean the code and also forked repositories once a week, in which you are not programming or coding at all.\
+▶️  There is no limit in customization and everything but i believe that this will do all work so i am not a big fan of daily customization terminals or themes.
 
 Gaurav Sablok \
 Academic Staff Member \
