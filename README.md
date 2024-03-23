@@ -4,26 +4,27 @@ If you program and write code most of the day then to increase your vision and t
 
 Best online conversion that you can use for any format. I use this only all the time mainly. [cloudconvert](https://cloudconvert.com/) and in case you are writing still C++ then the reference link for the C++  [cppreference](https://en.cppreference.com/w/) 
 
-The best github account readme \
+> The best github account readme \
 [ProfileMe.dev](https://www.profileme.dev/) \
 [All Badges](https://home.aveek.io/GitHub-Profile-Badges/) \
 [Github Profile Maker](https://github-profile-maker.vercel.app/) \
 [API References](https://www.linode.com/docs/guides/) \
 [Awesome list](https://project-awesome.org/) \
 [Top Programming Languages Index](https://www.tiobe.com/tiobe-index/) \
-[Anaconda package repository](https://anaconda.org/anaconda/repo)
+[Anaconda package repository](https://anaconda.org/anaconda/repo) \
+[Structured text tools](https://github.com/dbohdan/structured-text-tools) 
 
-Markdown: The detail markdown quick check sheet
+> Markdown: The detail markdown quick check sheet
 [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) \
 [Markdown new](https://www.markdownguide.org/)
 
-Code Program Course Providers \
+> Code Program Course Providers \
 [Exercism](https://exercism.org/) \
 [OpenHPI Course](https://open.hpi.de/) \
 [image code](codeimage.dev) \
 [code developer](https://bloggingfordevs.com/trends/) 
 
-Code Python \
+> Code Python \
 [Python Institute](https://pythoninstitute.org/) \
 [OpenEdge](https://edube.org/login) \
 [python](https://pybuddy.com/) \
@@ -32,7 +33,7 @@ Code Python \
 [python](https://docs.python.org/3/) \
 [python packaging](https://packaging.python.org/en/latest/) 
 
-Code Ruby and R \
+> Code Ruby and R \
 [rubydocs](https://ruby-doc.org/) \
 [rubylatest](https://ruby-doc.org/3.3.0/) \
 [ruby bindings](https://aj-foster.com/2015/ruby-bindings/)
@@ -46,7 +47,7 @@ Code Ruby and R \
 [Bayesian Network](https://www.bnlearn.com/) \
 [Shiny Themes](https://rstudio.github.io/shinythemes/) 
 
-Code Bioinformatics and Projects \
+> Code Bioinformatics and Projects \
 [biotools](https://bio.tools/) \
 [bioconductor](https://bioconductor.org/) \
 [Hydra](https://hydra.cc/) \
@@ -55,13 +56,13 @@ Code Bioinformatics and Projects \
 [trendingprojects](https://www.libhunt.com/) \
 [packagelibraries](https://libraries.io/) 
 
-Code Regular Expression \
+> Code Regular Expression \
 [Regular expression](autoregex.xyz) \
 [Regular pattern expressions](regex101.com) \
 [Regular expression](https://www.rexegg.com/) \
 [Regular expression informatics](https://www.regular-expressions.info/) 
 
-Communities that i follow and keep posting the code to: \
+> Communities that i follow and keep posting the code to: \
 [CrateDB](https://community.cratedb.com/) \
 [Crystal](https://forum.crystal-lang.org/) \
 [Linux](https://linuxcommunity.io/) \
@@ -72,7 +73,7 @@ Communities that i follow and keep posting the code to: \
 [Python Community](https://www.python-forum.de/) \
 [Rocker: A docker for the R](https://rocker-project.org/)
 
-Code Editors and DevOPs terminal clients and i think these all are sufficient enough for everything. \
+> Code Editors and DevOPs terminal clients and i think these all are sufficient enough for everything. \
 [tabby](https://github.com/Eugeny/tabby) \
 [warp](https://github.com/warpdotdev/Warp) \
 [VSCode](https://code.visualstudio.com/) \
@@ -84,7 +85,7 @@ Code Editors and DevOPs terminal clients and i think these all are sufficient en
 [Wezterm](https://github.com/wez/wezterm) \
 [spyder](https://www.spyder-ide.org/)
 
-AWK compilers: I am writing a new Awk library and was actually searching for better than the normal \
+> AWK compilers: I am writing a new Awk library and was actually searching for better than the normal \
 compilation, which i have done previously to increase the run time efficiency. \
 [lawk](https://lawk.sourceforge.net/) \
 [awkc](https://www.mkssoftware.com/docs/man1/awkc.1.asp) \
@@ -93,9 +94,10 @@ compilation, which i have done previously to increase the run time efficiency. \
 [allcaps](https://github.com/dbohdan/all-caps-basic) A compiler written in Awk. \
 [awk compiler three pass](https://benhoyt.com/writings/awkgo/) \
 [mawk](https://man1.pgdp.sse.in.tum.de/mawk.1.html) \
-[gawk](https://www.gnu.org/software/gawk/manual/gawk.html)
+[gawk](https://www.gnu.org/software/gawk/manual/gawk.html) \
+[awk libs](https://github.com/e36freak/awk-libs) 
 
-DevOps and Administration  \
+> DevOps and Administration  \
 [Linux Foundation](https://training.linuxfoundation.org/) \
 [AWS console](https://aws.amazon.com/console/) \
 [Cloud Native Computing Foundation](https://www.cncf.io/) \
@@ -115,7 +117,7 @@ DevOps and Administration  \
 [GitOPs](https://learning.codefresh.io/course/gitops-with-argo) \
 [Terraform Cloud](https://app.terraform.io/session)
 
-Customization \
+> Customization \
 [ZSH plugins](https://github.com/unixorn/awesome-zsh-plugins) \
 [Oh-my-Posh](https://github.com/JanDeDobbeleer/oh-my-posh) \
 [Oh-my-ZSH](https://github.com/ohmyzsh/ohmyzsh) \
@@ -124,7 +126,7 @@ Customization \
 [Antigen](https://github.com/zsh-users/antigen) \
 [ZSH Autosuggestions](https://github.com/zsh-users/zsh-autosuggestions) 
 
-Graph Analysis \
+> Graph Analysis \
 [Graph tool](https://graph-tool.skewed.de/) \
 [Hugging Face](https://huggingface.co/learn/nlp-course/) \
 [HyenaDNA](https://hazyresearch.stanford.edu/blog/2023-06-29-hyena-dna) \
