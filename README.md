@@ -82,7 +82,8 @@ This page is used for quick look when I am coding and I forgot some inbuilt func
 [ruby build](https://github.com/rbenv/ruby-build) \
 [rocker: A docker for the R](https://rocker-project.org/) \
 [ruby docs](https://rubydoc.brew.sh/) \
-[ruby object orientation quick look](https://bparanj.gitbooks.io/ruby-basics/content/essential_book_series.html)
+[ruby object orientation quick look](https://bparanj.gitbooks.io/ruby-basics/content/essential_book_series.html) \
+[ruby pdf library](https://github.com/yob/pdf-reader)
 
 > bioinformatics  \
 [biotools](https://bio.tools/) \
