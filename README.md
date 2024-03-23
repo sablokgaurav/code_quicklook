@@ -1,4 +1,4 @@
-#### code This page is used for quick look when you are coding and you forgot some function or something as a reference. It doesnt provide any code itself. Rest no book or code courses teaches you how to write code for specific applications, specific projects, specific roles and everything else. They simply teaches you how to put and declare variables, write functions and others. You have to put your efforts and this comes from applications and writing yourself the same.  
+#### code This page is used for quick look when I am coding and I forgot some function or inbuilt class reference. It doesnt provide any code itself. I believe that no book or code courses teaches you how to write code for specific applications, specific projects and analysis. They simply teaches you how to declare variables, write functions. These are only links that I am programming currently and need it as a reference.
 
 If you program and write code most of the day then to increase your vision and transparency and also to give your eyes a little bit rest, you  can find some themes here: [vscode_themes](https://vscodethemes.com/). 
 
@@ -112,7 +112,7 @@ compilation, which i have done previously to increase the run time efficiency. \
 [frawk](https://github.com/ezrosent/frawk) \
 [awk](https://github.com/onetrueawk/awk)
 
-jq and yq lang
+> jq and yq lang
 [jq lang](https://github.com/jqlang/jq)
 [yq lang](https://github.com/mikefarah/yq)
 
