@@ -15,7 +15,7 @@
 [Structured text tools](https://github.com/dbohdan/structured-text-tools) \
 [Awesome devdocs](https://devdocs.io/)
 
-> Markdown: The detail markdown quick check sheet
+> Markdown: The detail markdown quick check sheet \
 [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) \
 [Markdown new](https://www.markdownguide.org/) \
 [Markdown Editor](https://github.com/marktext/marktext)
