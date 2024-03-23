@@ -185,7 +185,9 @@ compilation, which i have done previously to increase the run time efficiency. \
 [hyenaDNA](https://hazyresearch.stanford.edu/blog/2023-06-29-hyena-dna) \
 [hyenaDNA](https://hazyresearch.stanford.edu/blog/2023-03-07-hyena) \
 [graphile](https://github.com/graphile/crystal) \
-[graphql](https://github.com/GraphQLCollege/fullstack-graphql)
+[graphql](https://github.com/GraphQLCollege/fullstack-graphql) \
+[neo4j](https://neo4j.com/product/graph-data-science/#graph-data-science-resources) \
+[neo4jdata](https://graphacademy.neo4j.com/)
 
 
 ###### Rules for better code strategies 
