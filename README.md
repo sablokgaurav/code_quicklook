@@ -1,4 +1,4 @@
-#### This page is used for quick look when I am coding and I forgot some function or inbuilt class reference. It doesnt provide any code itself. I believe that no book or code courses teaches you how to write code for specific applications, specific projects and analysis. They simply teaches you how to declare variables, write functions. These are only links that I am programming currently and need it as a reference.
+#### This page is used for quick look when I am coding and I forgot some inbuilt function or class reference. It doesnt provide any code itself. I believe that no book or code courses teaches you how to write code for specific applications, specific projects and analysis. They simply teaches you how to declare variables, write functions. These are only links that I am programming currently and need it as a reference.
 
 > If you program and write code most of the day then to increase your vision and transparency and also to give your eyes a little bit rest, you  can find some themes here: [vscode_themes](https://vscodethemes.com/). 
 
@@ -107,7 +107,6 @@
 [Bash Language server](https://github.com/bash-lsp/bash-language-server)
 [Shell Check](https://github.com/koalaman/shellcheck)
  
-
 > AWK compilers: I am writing a new Awk library and was actually searching for better than the normal \
 compilation, which i have done previously to increase the run time efficiency. \
 [lawk](https://lawk.sourceforge.net/) \
@@ -132,7 +131,8 @@ compilation, which i have done previously to increase the run time efficiency. \
 [pydash](https://github.com/dgilland/pydash)
  
 > PowerShell
-[PowerShell](https://github.com/PowerShell/vscode-powershell) 
+[PowerShell](https://github.com/PowerShell/vscode-powershell) \
+[PowerShell](https://github.com/PowerShell/PowerShell)
 
 > DevOps and Administration  \
 [Linux Foundation](https://training.linuxfoundation.org/) \
