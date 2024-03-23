@@ -167,7 +167,16 @@ compilation, which i have done previously to increase the run time efficiency. \
 [dev connected](https://devconnected.com/) \
 [cratedb cloud](https://console.cratedb.cloud/) \
 [gitops](https://learning.codefresh.io/course/gitops-with-argo) \
-[warp workflow writer](https://github.com/warpdotdev/workflows)  
+[warp workflow writer](https://github.com/warpdotdev/workflows) \
+
+> repositories that are important for terraform \
+[terraform aws](https://github.com/sablokgaurav/terraform-aws-eks) \
+[terraform grafana](https://github.com/sablokgaurav/terraform-provider-grafana) \
+[terraform hcl](https://github.com/sablokgaurav/terraform-provider-hcl) \
+[terraform bash](https://github.com/sablokgaurav/terraform-provider-bash) \
+[terraform module template](https://github.com/sablokgaurav/terraform-module-template) \
+[terraform aws beacon](https://github.com/sablokgaurav/terraform-aws-serverless-beacon) \
+[terraform tf registry](https://github.com/sablokgaurav/terraform-aws-tf-registry)
 
 > customization \
 [ZSH plugins](https://github.com/unixorn/awesome-zsh-plugins) \
