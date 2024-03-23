@@ -95,7 +95,8 @@ compilation, which i have done previously to increase the run time efficiency. \
 [awk compiler three pass](https://benhoyt.com/writings/awkgo/) \
 [mawk](https://man1.pgdp.sse.in.tum.de/mawk.1.html) \
 [gawk](https://www.gnu.org/software/gawk/manual/gawk.html) \
-[awk libs](https://github.com/e36freak/awk-libs) 
+[awk libs](https://github.com/e36freak/awk-libs)
+[frawk](https://github.com/ezrosent/frawk) 
 
 > DevOps and Administration  \
 [Linux Foundation](https://training.linuxfoundation.org/) \
