@@ -22,6 +22,15 @@
 [python Community](https://discuss.python.org/)\
 [python Community](https://www.python-forum.de/) \
 
+> homebrew code repositories
+[homebrew core](https://github.com/Homebrew/homebrew-core) \
+[homebrew Ruby](https://github.com/Homebrew/rubydoc.brew.sh) \
+[brew](https://github.com/Homebrew/brew) \
+[modularml](https://github.com/modularml/homebrew-packages) \
+[homebrew bio](https://github.com/brewsci/homebrew-bio) \
+[homebrew science](https://github.com/brewsci/homebrew-science) \
+[homebrew base](https://github.com/brewsci/homebrew-base)  
+
 > markdown programming \
 [markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) \
 [markdown guide](https://www.markdownguide.org/) \
