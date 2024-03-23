@@ -4,6 +4,7 @@ This page is used for quick look when I am coding and I forgot some inbuilt func
 [profileme](https://www.profileme.dev/) \
 [all badges](https://home.aveek.io/GitHub-Profile-Badges/) \
 [github profile maker](https://github-profile-maker.vercel.app/) \
+[gravatar](https://gravatar.com/?logout=1) \
 [api references](https://www.linode.com/docs/guides/) \
 [awesome listt](https://project-awesome.org/) \
 [anaconda package repository](https://anaconda.org/anaconda/repo) \
