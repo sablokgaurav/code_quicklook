@@ -31,7 +31,12 @@ Best online conversion that you can use for any format. I use this only all the 
 [python package repository](https://pypi.org/) \
 [python](https://pythonrepo.com/) \
 [python](https://docs.python.org/3/) \
-[python packaging](https://packaging.python.org/en/latest/) 
+[python packaging](https://packaging.python.org/en/latest/) \
+[Scientific python](https://scientific-python.org/)
+
+> Static and Dynamic Analysis
+[Static Analysis](https://github.com/analysis-tools-dev/static-analysis) \
+[Dynamic Analysis](https://github.com/analysis-tools-dev/dynamic-analysis)  
 
 > Code Ruby and R \
 [rubydocs](https://ruby-doc.org/) \
@@ -45,7 +50,8 @@ Best online conversion that you can use for any format. I use this only all the 
 [modern data visualization with R](https://rkabacoff.github.io/datavis/) \
 [Siny Express](https://shiny.posit.co/blog/posts/shiny-express/) \
 [Bayesian Network](https://www.bnlearn.com/) \
-[Shiny Themes](https://rstudio.github.io/shinythemes/) 
+[Shiny Themes](https://rstudio.github.io/shinythemes/) \
+[VSCode Ruby](https://github.com/standardrb/vscode-standard-ruby)
 
 > Code Bioinformatics and Projects \
 [biotools](https://bio.tools/) \
@@ -83,7 +89,14 @@ Best online conversion that you can use for any format. I use this only all the 
 [Sublime Merge](https://www.sublimemerge.com/) \
 [Zed](https://github.com/zed-industries/zed) \
 [Wezterm](https://github.com/wez/wezterm) \
-[spyder](https://www.spyder-ide.org/)
+[spyder](https://www.spyder-ide.org/) \
+[Fig Atuocomplete](https://github.com/withfig/autocomplete)
+
+> Language server protocol
+[Jupyter lab](https://github.com/jupyter-lsp/jupyterlab-lsp)
+[Bash Language server](https://github.com/bash-lsp/bash-language-server)
+[Shell Check](https://github.com/koalaman/shellcheck)
+ 
 
 > AWK compilers: I am writing a new Awk library and was actually searching for better than the normal \
 compilation, which i have done previously to increase the run time efficiency. \
@@ -95,8 +108,21 @@ compilation, which i have done previously to increase the run time efficiency. \
 [awk compiler three pass](https://benhoyt.com/writings/awkgo/) \
 [mawk](https://man1.pgdp.sse.in.tum.de/mawk.1.html) \
 [gawk](https://www.gnu.org/software/gawk/manual/gawk.html) \
-[awk libs](https://github.com/e36freak/awk-libs)
-[frawk](https://github.com/ezrosent/frawk) 
+[awk libs](https://github.com/e36freak/awk-libs) \
+[frawk](https://github.com/ezrosent/frawk) \
+[awk](https://github.com/onetrueawk/awk)
+
+jq and yq lang
+[jq lang](https://github.com/jqlang/jq)
+[yq lang](https://github.com/mikefarah/yq)
+
+> Python iteration utilies
+[iteration utilities](https://github.com/MSeifert04/iteration_utilities) \
+[more itertools](https://github.com/more-itertools/more-itertools) \
+[pydash](https://github.com/dgilland/pydash)
+ 
+> PowerShell
+[PowerShell](https://github.com/PowerShell/vscode-powershell) 
 
 > DevOps and Administration  \
 [Linux Foundation](https://training.linuxfoundation.org/) \
@@ -116,7 +142,8 @@ compilation, which i have done previously to increase the run time efficiency. \
 [DevConnected](https://devconnected.com/) \
 [CrateDB Cloud](https://console.cratedb.cloud/) \
 [GitOPs](https://learning.codefresh.io/course/gitops-with-argo) \
-[Terraform Cloud](https://app.terraform.io/session)
+[Terraform Cloud](https://app.terraform.io/session) \
+[Warp Workflow writer](https://github.com/warpdotdev/workflows)  
 
 > Customization \
 [ZSH plugins](https://github.com/unixorn/awesome-zsh-plugins) \
@@ -125,13 +152,15 @@ compilation, which i have done previously to increase the run time efficiency. \
 [ZSH completions](https://github.com/zsh-users/zsh-completions) \
 [ZSH syntax highlighting](https://github.com/zsh-users/zsh-syntax-highlighting) \
 [Antigen](https://github.com/zsh-users/antigen) \
-[ZSH Autosuggestions](https://github.com/zsh-users/zsh-autosuggestions) 
+[ZSH Autosuggestions](https://github.com/zsh-users/zsh-autosuggestions) \
+[Git compatible client](https://github.com/martinvonz/jj) 
 
 > Graph Analysis \
 [Graph tool](https://graph-tool.skewed.de/) \
 [Hugging Face](https://huggingface.co/learn/nlp-course/) \
 [HyenaDNA](https://hazyresearch.stanford.edu/blog/2023-06-29-hyena-dna) \
-[HyenaDNA](https://hazyresearch.stanford.edu/blog/2023-03-07-hyena)
+[HyenaDNA](https://hazyresearch.stanford.edu/blog/2023-03-07-hyena) \
+[Graphile](https://github.com/graphile/crystal) 
 
 ###### Rules for better code strategies 
 :thumbsup:  Keep a day off from the code and make it more attendable. Going through all the code, bug fixes and everything. \
