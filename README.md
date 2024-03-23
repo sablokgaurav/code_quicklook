@@ -178,6 +178,10 @@ compilation, which i have done previously to increase the run time efficiency. \
 [terraform aws beacon](https://github.com/sablokgaurav/terraform-aws-serverless-beacon) \
 [terraform tf registry](https://github.com/sablokgaurav/terraform-aws-tf-registry)
 
+> repositories that are important for kubernetes
+[timoni](https://github.com/stefanprodan/timoni)
+[kwok](https://github.com/kubernetes-sigs/kwok)
+
 > customization \
 [ZSH plugins](https://github.com/unixorn/awesome-zsh-plugins) \
 [Oh-my-Posh](https://github.com/JanDeDobbeleer/oh-my-posh) \
