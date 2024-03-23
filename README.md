@@ -1,8 +1,8 @@
 #### This page is used for quick look when I am coding and I forgot some function or inbuilt class reference. It doesnt provide any code itself. I believe that no book or code courses teaches you how to write code for specific applications, specific projects and analysis. They simply teaches you how to declare variables, write functions. These are only links that I am programming currently and need it as a reference.
 
-If you program and write code most of the day then to increase your vision and transparency and also to give your eyes a little bit rest, you  can find some themes here: [vscode_themes](https://vscodethemes.com/). 
+> If you program and write code most of the day then to increase your vision and transparency and also to give your eyes a little bit rest, you  can find some themes here: [vscode_themes](https://vscodethemes.com/). 
 
-Best online conversion that you can use for any format. I use this only all the time mainly. [cloudconvert](https://cloudconvert.com/) and in case you are writing still C++ then the reference link for the C++  [cppreference](https://en.cppreference.com/w/) 
+> Best online conversion that you can use for any format. I use this only all the time mainly. [cloudconvert](https://cloudconvert.com/) and in case you are writing still C++ then the reference link for the C++  [cppreference](https://en.cppreference.com/w/) 
 
 > The best github account readme \
 [ProfileMe.dev](https://www.profileme.dev/) \
@@ -12,11 +12,13 @@ Best online conversion that you can use for any format. I use this only all the 
 [Awesome list](https://project-awesome.org/) \
 [Top Programming Languages Index](https://www.tiobe.com/tiobe-index/) \
 [Anaconda package repository](https://anaconda.org/anaconda/repo) \
-[Structured text tools](https://github.com/dbohdan/structured-text-tools) 
+[Structured text tools](https://github.com/dbohdan/structured-text-tools) \
+[Awesome devdocs](https://devdocs.io/)
 
 > Markdown: The detail markdown quick check sheet
 [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) \
-[Markdown new](https://www.markdownguide.org/)
+[Markdown new](https://www.markdownguide.org/) \
+[Markdown Editor](https://github.com/marktext/marktext)
 
 > Code Program Course Providers \
 [Exercism](https://exercism.org/) \
@@ -34,9 +36,10 @@ Best online conversion that you can use for any format. I use this only all the 
 [python packaging](https://packaging.python.org/en/latest/) \
 [Scientific python](https://scientific-python.org/)
 
-> Static and Dynamic Analysis
+> Static and Dynamic Analysis \
 [Static Analysis](https://github.com/analysis-tools-dev/static-analysis) \
-[Dynamic Analysis](https://github.com/analysis-tools-dev/dynamic-analysis)  
+[Dynamic Analysis](https://github.com/analysis-tools-dev/dynamic-analysis) \
+[Rubocop](https://github.com/rubocop/rubocop) 
 
 > Code Ruby and R \
 [rubydocs](https://ruby-doc.org/) \
@@ -51,7 +54,13 @@ Best online conversion that you can use for any format. I use this only all the 
 [Siny Express](https://shiny.posit.co/blog/posts/shiny-express/) \
 [Bayesian Network](https://www.bnlearn.com/) \
 [Shiny Themes](https://rstudio.github.io/shinythemes/) \
-[VSCode Ruby](https://github.com/standardrb/vscode-standard-ruby)
+[VSCode Ruby](https://github.com/standardrb/vscode-standard-ruby) \
+[fast ruby](https://github.com/fastruby/fast-ruby) \
+[iruby](https://github.com/ruby/irb) \
+[Ruby gems](https://rubygems.org/) \
+[iruby](https://github.com/SciRuby/iruby) \
+[scientific ruby](https://github.com/SciRuby/) \
+[bio ruby for bioinformatics](https://github.com/bioruby)
 
 > Code Bioinformatics and Projects \
 [biotools](https://bio.tools/) \
@@ -90,7 +99,8 @@ Best online conversion that you can use for any format. I use this only all the 
 [Zed](https://github.com/zed-industries/zed) \
 [Wezterm](https://github.com/wez/wezterm) \
 [spyder](https://www.spyder-ide.org/) \
-[Fig Atuocomplete](https://github.com/withfig/autocomplete)
+[Fig Atuocomplete](https://github.com/withfig/autocomplete) \
+[VScode Extensions](https://github.com/viatsko/awesome-vscode)
 
 > Language server protocol
 [Jupyter lab](https://github.com/jupyter-lsp/jupyterlab-lsp)
