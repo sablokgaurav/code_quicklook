@@ -9,6 +9,8 @@ This page is used for quick look when I am coding and I forgot some inbuilt func
 [anaconda package repository](https://anaconda.org/anaconda/repo) \
 [structured text tools](https://github.com/dbohdan/structured-text-tools) \
 [awesome devdocs](https://devdocs.io/)
+>> I am very avid reader and i read and extract what is needed and you can find some links here, which might be of use. 
+[read as much as you like](https://github.com/sablokgaurav/free-programming-books/blob/main/books/free-programming-books-langs.md#bootstrap)
 
 > communities that i follow and keep posting the code to: \
 [crateDB](https://community.cratedb.com/) \
@@ -78,7 +80,8 @@ This page is used for quick look when I am coding and I forgot some inbuilt func
 [bio ruby api](http://bioruby.org/) \
 [ruby build](https://github.com/rbenv/ruby-build) \
 [rocker: A docker for the R](https://rocker-project.org/) \
-[ruby docs](https://rubydoc.brew.sh/)
+[ruby docs](https://rubydoc.brew.sh/) \
+[ruby object orientation quick look](https://bparanj.gitbooks.io/ruby-basics/content/essential_book_series.html)
 
 > bioinformatics  \
 [biotools](https://bio.tools/) \
@@ -93,7 +96,8 @@ This page is used for quick look when I am coding and I forgot some inbuilt func
 [regular expression](autoregex.xyz) \
 [regular pattern expressions](regex101.com) \
 [regular expression](https://www.rexegg.com/) \
-[regular expression informatics](https://www.regular-expressions.info/) 
+[regular expression informatics](https://www.regular-expressions.info/) \
+[shell quick look](https://www.gnu.org/savannah-checkouts/gnu/bash/manual/bash.html)
 
 > editors and devops terminal clients and i think these all are sufficient enough for everything. \
 [tabby](https://github.com/Eugeny/tabby) \
@@ -129,7 +133,8 @@ compilation, which i have done previously to increase the run time efficiency. \
 [gawk](https://www.gnu.org/software/gawk/manual/gawk.html) \
 [awk libs](https://github.com/e36freak/awk-libs) \
 [frawk](https://github.com/ezrosent/frawk) \
-[awk](https://github.com/onetrueawk/awk)
+[awk](https://github.com/onetrueawk/awk) \
+[awk read](https://www.grymoire.com/Unix/Awk.html)
 
 > jq and yq lang
 [jq lang](https://github.com/jqlang/jq)
@@ -178,7 +183,9 @@ compilation, which i have done previously to increase the run time efficiency. \
 [hugging face](https://huggingface.co/learn/nlp-course/) \
 [hyenaDNA](https://hazyresearch.stanford.edu/blog/2023-06-29-hyena-dna) \
 [hyenaDNA](https://hazyresearch.stanford.edu/blog/2023-03-07-hyena) \
-[graphile](https://github.com/graphile/crystal) 
+[graphile](https://github.com/graphile/crystal) \
+[graphql](https://github.com/GraphQLCollege/fullstack-graphql)
+
 
 ###### Rules for better code strategies 
 :thumbsup:  Keep a day off from the code and make it more attendable. Going through all the code, bug fixes and everything. \
