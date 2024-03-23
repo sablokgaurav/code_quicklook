@@ -24,7 +24,7 @@ This page is used for quick look when I am coding and I forgot some inbuilt func
 [python Community](https://www.python-forum.de/) \
 [grepper](https://www.grepper.com/index.php) 
 
-> homebrew code repositories
+> homebrew code repositories \
 [homebrew core](https://github.com/Homebrew/homebrew-core) \
 [homebrew Ruby](https://github.com/Homebrew/rubydoc.brew.sh) \
 [brew](https://github.com/Homebrew/brew) \
@@ -111,7 +111,7 @@ This page is used for quick look when I am coding and I forgot some inbuilt func
 [Fig Atuocomplete](https://github.com/withfig/autocomplete) \
 [VScode Extensions](https://github.com/viatsko/awesome-vscode)
 
-> Language server protocol
+> Language server protocol \
 [jupyterlab](https://github.com/jupyter-lsp/jupyterlab-lsp) \
 [bash language server](https://github.com/bash-lsp/bash-language-server) \
 [shell check](https://github.com/koalaman/shellcheck) \
@@ -122,8 +122,7 @@ This page is used for quick look when I am coding and I forgot some inbuilt func
 [python lsp ruff](https://github.com/python-lsp/python-lsp-ruff) \
 [anakin language server](https://github.com/muffinmad/anakin-language-server)
  
-> AWK compilers: I am writing a new Awk library and was actually searching for better than the normal \
-compilation, which i have done previously to increase the run time efficiency. \
+> AWK compilers: I am writing a new Awk library and was actually searching for better than the normal compilation, which i have done previously to increase the run time efficiency. \
 [lawk](https://lawk.sourceforge.net/) \
 [awkc](https://www.mkssoftware.com/docs/man1/awkc.1.asp) \
 [goawk](https://github.com/benhoyt/goawk) This one is specically useful if you are writing DevOps \
@@ -138,15 +137,15 @@ compilation, which i have done previously to increase the run time efficiency. \
 [awk read](https://www.grymoire.com/Unix/Awk.html)
 
 > jq and yq lang
-[jq lang](https://github.com/jqlang/jq)
+[jq lang](https://github.com/jqlang/jq) \
 [yq lang](https://github.com/mikefarah/yq)
 
-> Python iteration utilies
+> Python iteration utilies \
 [iteration utilities](https://github.com/MSeifert04/iteration_utilities) \
 [more itertools](https://github.com/more-itertools/more-itertools) \
 [pydash](https://github.com/dgilland/pydash)
  
-> PowerShell
+> PowerShell \
 [powerShell](https://github.com/PowerShell/vscode-powershell) \
 [powerShell](https://github.com/PowerShell/PowerShell)
 
@@ -178,8 +177,8 @@ compilation, which i have done previously to increase the run time efficiency. \
 [terraform aws beacon](https://github.com/sablokgaurav/terraform-aws-serverless-beacon) \
 [terraform tf registry](https://github.com/sablokgaurav/terraform-aws-tf-registry)
 
-> repositories that are important for kubernetes
-[timoni](https://github.com/stefanprodan/timoni)
+> repositories that are important for kubernetes \
+[timoni](https://github.com/stefanprodan/timoni) \
 [kwok](https://github.com/kubernetes-sigs/kwok)
 
 > customization \
