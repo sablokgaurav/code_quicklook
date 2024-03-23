@@ -60,7 +60,8 @@
 [Ruby gems](https://rubygems.org/) \
 [iruby](https://github.com/SciRuby/iruby) \
 [scientific ruby](https://github.com/SciRuby/) \
-[bio ruby for bioinformatics](https://github.com/bioruby)
+[bio ruby for bioinformatics](https://github.com/bioruby) \
+[ruby build](https://github.com/rbenv/ruby-build)
 
 > Code Bioinformatics and Projects \
 [biotools](https://bio.tools/) \
