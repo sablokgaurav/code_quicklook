@@ -16,9 +16,9 @@ if you are looking for customized linux [customized linux](https://laptopwithlin
 [awesome devdocs](https://devdocs.io/)
 [tailwind css](https://tailwindcss.com/) 
 
->> I am very voracious reader and i read and extract what is relevant and if you want the link is here:
+> I am very voracious reader and i read and extract what is relevant and if you want the link is here:
 [read what you like](https://github.com/sablokgaurav/free-programming-books/blob/main/books/free-programming-books-langs.md#bootstrap)
->> There is another link given below and read as much you have time and capacity
+> There is another link given below and read as much you have time and capacity
 [read what you like](https://www.infobooks.org/)
 
 > communities that i follow and keep posting the code to: \
