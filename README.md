@@ -13,8 +13,8 @@
 [structured text tools](https://github.com/dbohdan/structured-text-tools) \
 [awesome devdocs](https://devdocs.io/)
 
->> I am very voracious reader and i read and extract what is relevant and you can find some links here.
-[read as much as you like](https://github.com/sablokgaurav/free-programming-books/blob/main/books/free-programming-books-langs.md#bootstrap)
+>> I am very voracious reader and i read and extract what is relevant and if you want the link is here:
+[read what you like](https://github.com/sablokgaurav/free-programming-books/blob/main/books/free-programming-books-langs.md#bootstrap)
 
 > communities that i follow and keep posting the code to: \
 [crateDB](https://community.cratedb.com/) \
@@ -165,7 +165,7 @@
 [linux foundation](https://training.linuxfoundation.org/) \
 [aws console](https://aws.amazon.com/console/) \
 [cloud native computing foundation](https://www.cncf.io/) \
-[linux professional](https://www.lpi.org/our-certifications/lpic-1-overview/) 
+[linux professional](https://www.lpi.org/our-certifications/lpic-1-overview/) \
 [killer shell devops](https://killer.sh/) \
 [terraform cloud](https://app.terraform.io/session) \
 [shell code](explainshell.com) \
