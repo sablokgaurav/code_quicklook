@@ -93,7 +93,7 @@ if you are looking for customized linux \
 [ruby object orientation quick look](https://bparanj.gitbooks.io/ruby-basics/content/essential_book_series.html) \
 [ruby pdf library](https://github.com/yob/pdf-reader) 
 
-> r packages that are of importance and i immediately look
+> r packages that i use immediately \
 [easystats](https://github.com/easystats) \
 [tidayverse](https://github.com/tidyverse) \
 [tidaymodels](https://github.com/tidymodels) \
