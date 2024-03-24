@@ -141,9 +141,8 @@ if you are looking for customized linux \
 [rlang server](https://github.com/REditorSupport/languageserver) \
 [awk language server](https://github.com/Beaglefoot/awk-language-server) \
 [awk language protocol](https://github.com/fwip/awk-language-server) \
-[bash language server](https://github.com/bash-lsp/bash-language-server) 
  
-> AWK compilers: new awk compilers to increase run time efficiency. \
+> AWK compilers to increase run time efficiency. \
 [lawk](https://lawk.sourceforge.net/) \
 [awkc](https://www.mkssoftware.com/docs/man1/awkc.1.asp) \
 [goawk](https://github.com/benhoyt/goawk) This one is specically useful if you are writing DevOps \
@@ -161,16 +160,14 @@ if you are looking for customized linux \
 [jq lang](https://github.com/jqlang/jq) \
 [yq lang](https://github.com/mikefarah/yq)
 
-> Python iteration utilies \
+> python iteration utilies \
 [iteration utilities](https://github.com/MSeifert04/iteration_utilities) \
 [more itertools](https://github.com/more-itertools/more-itertools) \
 [pydash](https://github.com/dgilland/pydash)
  
-> PowerShell \
+> PowerShell DevOps and Administration \
 [powerShell](https://github.com/PowerShell/vscode-powershell) \
-[powerShell](https://github.com/PowerShell/PowerShell)
-
-> DevOps and Administration  \
+[powerShell](https://github.com/PowerShell/PowerShell) \
 [linux foundation](https://training.linuxfoundation.org/) \
 [aws console](https://aws.amazon.com/console/) \
 [cloud native computing foundation](https://www.cncf.io/) \
@@ -209,7 +206,7 @@ if you are looking for customized linux \
 [ZSH Autosuggestions](https://github.com/zsh-users/zsh-autosuggestions) \
 [Git compatible client](https://github.com/martinvonz/jj) 
 
-> graph Analysis \
+> graph analysis \
 [graph tool](https://graph-tool.skewed.de/) \
 [hugging face](https://huggingface.co/learn/nlp-course/) \
 [hyenaDNA](https://hazyresearch.stanford.edu/blog/2023-06-29-hyena-dna) \
