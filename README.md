@@ -137,7 +137,10 @@ if you are looking for customized linux \
 [python lsp](https://github.com/python-lsp/python-lsp-server) \
 [python lsp ruff](https://github.com/python-lsp/python-lsp-ruff) \
 [anakin language server](https://github.com/muffinmad/anakin-language-server) \
-[rlang server](https://github.com/REditorSupport/languageserver)
+[rlang server](https://github.com/REditorSupport/languageserver) \
+[awk language server](https://github.com/Beaglefoot/awk-language-server) \
+[awk language protocol](https://github.com/fwip/awk-language-server) \
+[bash language server](https://github.com/bash-lsp/bash-language-server) 
  
 > AWK compilers: new awk compilers to increase run time efficiency. \
 [lawk](https://lawk.sourceforge.net/) \
