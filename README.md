@@ -1,4 +1,5 @@
-> This page is used for quick look when I am coding and I forgot some inbuilt function or class reference. It doesnt provide any code itself. I believe that no book or code courses teaches you how to write code for specific applications, specific projects and analysis. They simply teaches you how to declare variables, write functions. These are only languages that I am programming currently and needed this as a reference. 
+> This page is used for quick look when I am coding and I forgot some inbuilt function or class reference. It doesnt provide any code itself. I believe that no book or code courses teaches you how to write code for specific applications, specific projects and analysis. They simply teaches you how to declare variables, write functions. These are only languages that I am programming currently and needed this as a reference.
+
 > If you program and write code most of the day then to increase your vision and transparency and also to give your eyes a little bit rest, you  can find some themes here: [vscode_themes](https://vscodethemes.com/). Best online conversion that you can use for any format. I use this only all the time mainly. [cloudconvert](https://cloudconvert.com/) and in case you are writing still C++ then the reference link for the C++  [cppreference](https://en.cppreference.com/w/) 
 
 > github readme generator and package repositories \
@@ -85,7 +86,14 @@
 [rocker: A docker for the R](https://rocker-project.org/) \
 [ruby docs](https://rubydoc.brew.sh/) \
 [ruby object orientation quick look](https://bparanj.gitbooks.io/ruby-basics/content/essential_book_series.html) \
-[ruby pdf library](https://github.com/yob/pdf-reader)
+[ruby pdf library](https://github.com/yob/pdf-reader) 
+
+> r packages that are of importance and i immediately look
+[easystats](https://github.com/easystats) \
+[tidayverse](https://github.com/tidyverse) \
+[tidaymodels](https://github.com/tidymodels) \
+[mlverse](https://github.com/mlverse) \
+[cran](https://github.com/cran)
 
 > bioinformatics  \
 [biotools](https://bio.tools/) \
@@ -123,7 +131,8 @@
 [reloadium](https://github.com/reloadware/reloadium) \
 [python lsp](https://github.com/python-lsp/python-lsp-server) \
 [python lsp ruff](https://github.com/python-lsp/python-lsp-ruff) \
-[anakin language server](https://github.com/muffinmad/anakin-language-server)
+[anakin language server](https://github.com/muffinmad/anakin-language-server) \
+[rlang server](https://github.com/REditorSupport/languageserver)
  
 > AWK compilers: new awk compilers to increase run time efficiency. \
 [lawk](https://lawk.sourceforge.net/) \
