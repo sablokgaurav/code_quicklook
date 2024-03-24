@@ -3,8 +3,7 @@
 > If you program and write code most of the day then to increase your vision and transparency and also to give your eyes a little bit rest, you  can find some themes here: [vscode_themes](https://vscodethemes.com/). Best online conversion that you can use for any format. I use this only all the time mainly. [cloudconvert](https://cloudconvert.com/) and in case you are writing C++ [cppreference](https://en.cppreference.com/w/).
 
 if you are looking for customized linux \
-[customized linux](https://laptopwithlinux.com/product/clevo-nj70/) although i havent used.\
-[DELL XPS13 Developer Edition](12th Generation Intel® Core™ i7 processor, 32GB of memory and 2TB of storage)
+[customized linux](https://laptopwithlinux.com/product/clevo-nj70/) although i havent used or DELL XPS13 Developer Edition,12th Generation Intel® Core™ i7 processor, 32GB of memory and 2TB of storage. 
 
 > github readme generator and package repositories \
 [profileme](https://www.profileme.dev/) \
