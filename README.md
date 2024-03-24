@@ -184,7 +184,7 @@
 [terraform aws](https://github.com/terraform-aws-modules/terraform-aws-eks) \
 [terraform grafana](https://github.com/grafana/terraform-provider-grafana) \
 [terraform aws](https://github.com/hashicorp/terraform-provider-aws) \
-[terraform bash](https://github.com/apparentlymart/terraform-provider-bash) \
+[terraform bash](https://github.com/apparentlymart/terraform-provider-bash) 
 
 > repositories that are important for kubernetes \
 [timoni](https://github.com/stefanprodan/timoni) \
