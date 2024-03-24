@@ -212,10 +212,10 @@
 
 
 ###### Rules for better code strategies 
-▶️  Keep a day off from the code and make it more attendable. Going through all the code, bug fixes and everything. \
-▶️  Dont go for all the programming languages, select which are necessary and develop them. \
-▶️  Clean the code and also forked repositories once a week, in which you are not programming or coding at all.\
-▶️  There is no limit in customization and everything but i believe that this will do all work so i am not a big fan of daily customization terminals or themes.
+▶️  keep a day off from the code and make it more attendable. Going through all the code, bug fixes and everything. \
+▶️  dont go for all the programming languages, select which are necessary and develop them. \
+▶️  clean the code and also forked repositories once a week, which you are not reading at all.\
+▶️  there is no limit in customization, so i am not a big fan of daily customization terminals or themes.
 
 Gaurav Sablok \
 Academic Staff Member \
