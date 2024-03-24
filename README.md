@@ -10,7 +10,8 @@ This page is used for quick look when I am coding and I forgot some inbuilt func
 [anaconda package repository](https://anaconda.org/anaconda/repo) \
 [structured text tools](https://github.com/dbohdan/structured-text-tools) \
 [awesome devdocs](https://devdocs.io/)
->> I am very avid reader and i read and extract what is needed and you can find some links here, which might be of use. 
+
+>> I am very voracious reader and i read and extract what is relevant and you can find some links here.
 [read as much as you like](https://github.com/sablokgaurav/free-programming-books/blob/main/books/free-programming-books-langs.md#bootstrap)
 
 > communities that i follow and keep posting the code to: \
@@ -123,7 +124,7 @@ This page is used for quick look when I am coding and I forgot some inbuilt func
 [python lsp ruff](https://github.com/python-lsp/python-lsp-ruff) \
 [anakin language server](https://github.com/muffinmad/anakin-language-server)
  
-> AWK compilers: I am writing a new Awk library and was actually searching for better than the normal compilation, which i have done previously to increase the run time efficiency. \
+> AWK compilers: new awk compilers to increase run time efficiency. \
 [lawk](https://lawk.sourceforge.net/) \
 [awkc](https://www.mkssoftware.com/docs/man1/awkc.1.asp) \
 [goawk](https://github.com/benhoyt/goawk) This one is specically useful if you are writing DevOps \
@@ -170,13 +171,10 @@ This page is used for quick look when I am coding and I forgot some inbuilt func
 [warp workflow writer](https://github.com/warpdotdev/workflows) 
 
 > repositories that are important for terraform \
-[terraform aws](https://github.com/sablokgaurav/terraform-aws-eks) \
-[terraform grafana](https://github.com/sablokgaurav/terraform-provider-grafana) \
-[terraform hcl](https://github.com/sablokgaurav/terraform-provider-hcl) \
-[terraform bash](https://github.com/sablokgaurav/terraform-provider-bash) \
-[terraform module template](https://github.com/sablokgaurav/terraform-module-template) \
-[terraform aws beacon](https://github.com/sablokgaurav/terraform-aws-serverless-beacon) \
-[terraform tf registry](https://github.com/sablokgaurav/terraform-aws-tf-registry)
+[terraform aws](https://github.com/terraform-aws-modules/terraform-aws-eks) \
+[terraform grafana](https://github.com/grafana/terraform-provider-grafana) \
+[terraform aws](https://github.com/hashicorp/terraform-provider-aws) \
+[terraform bash](https://github.com/apparentlymart/terraform-provider-bash) \
 
 > repositories that are important for kubernetes \
 [timoni](https://github.com/stefanprodan/timoni) \
