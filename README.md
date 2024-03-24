@@ -4,6 +4,7 @@
 
 > if you are looking for customized linux
 [customized linux](https://laptopwithlinux.com/product/clevo-nj70/) although i havent used.\
+> dell version
 [DELL XPS13 Developer Edition](12th Generation Intel® Core™ i7 processor, 32GB of memory and 2TB of storage)
 
 > github readme generator and package repositories \
