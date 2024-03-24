@@ -116,7 +116,8 @@ if you are looking for customized linux [customized linux](https://laptopwithlin
 [regular expression informatics](https://www.regular-expressions.info/) \
 [shell quick look](https://www.gnu.org/savannah-checkouts/gnu/bash/manual/bash.html)
 
-> editors and devops terminal clients and i think these all are sufficient enough for everything. \
+> editors and devops terminal clients sufficient for everything \
+> i am not a editor learner or a system or laptop configurer who learn multiple editor or test them \
 [tabby](https://github.com/Eugeny/tabby) \
 [warp](https://github.com/warpdotdev/Warp) \
 [vscode](https://code.visualstudio.com/) \
@@ -125,7 +126,7 @@ if you are looking for customized linux [customized linux](https://laptopwithlin
 [sublime](https://www.sublimetext.com/index2) \
 [sublime Merge](https://www.sublimemerge.com/) \
 [fig atuocomplete](https://github.com/withfig/autocomplete) \
-[vscode extensions](https://github.com/viatsko/awesome-vscode) \
+[vscode extensions](https://github.com/viatsko/awesome-vscode) 
 
 > Language server protocol \
 [jupyterlab](https://github.com/jupyter-lsp/jupyterlab-lsp) \
