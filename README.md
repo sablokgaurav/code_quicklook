@@ -124,8 +124,12 @@ if you are looking for customized linux \
 [sublime package control](https://packagecontrol.io/packages/sublime-github) \
 [sublime](https://www.sublimetext.com/index2) \
 [sublime Merge](https://www.sublimemerge.com/) \
-[Fig Atuocomplete](https://github.com/withfig/autocomplete) \
-[VScode Extensions](https://github.com/viatsko/awesome-vscode)
+[fig atuocomplete](https://github.com/withfig/autocomplete) \
+[vscode extensions](https://github.com/viatsko/awesome-vscode) \
+> i really have never used helix and neovim and also least user of original vim :-) but i will learn the helix and neovim \
+ as and when i will see it necessary or when i am not writing some specific.
+[helix](https://github.com/helix-editor/helix) \
+[neovim](https://github.com/neovim/neovim) 
 
 > Language server protocol \
 [jupyterlab](https://github.com/jupyter-lsp/jupyterlab-lsp) \
