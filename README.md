@@ -1,6 +1,6 @@
 > This page is used for quick look when I am coding and I forgot some inbuilt function or class reference. It doesnt provide any code itself. I believe that no book or code courses teaches you how to write code for specific applications, specific projects and analysis. They simply teaches you how to declare variables, write functions. These are only languages that I am programming currently and needed this as a reference.
 
-> If you program and write code most of the day then to increase your vision and transparency and also to give your eyes a little bit rest, you  can find some themes here: [vscode_themes](https://vscodethemes.com/). Best online conversion that you can use for any format. I use this only all the time mainly. [cloudconvert](https://cloudconvert.com/) and in case you are writing still C++ then the reference link for the C++  [cppreference](https://en.cppreference.com/w/).
+> If you program and write code most of the day then to increase your vision and transparency and also to give your eyes a little bit rest, you  can find some themes here: [vscode_themes](https://vscodethemes.com/). Best online conversion that you can use for any format. I use this only all the time mainly. [cloudconvert](https://cloudconvert.com/) and in case you are writing C++ [cppreference](https://en.cppreference.com/w/).
 
 > if you are looking for customized linux
 [customized linux](https://laptopwithlinux.com/product/clevo-nj70/) although i havent used.\
@@ -19,6 +19,8 @@
 
 >> I am very voracious reader and i read and extract what is relevant and if you want the link is here:
 [read what you like](https://github.com/sablokgaurav/free-programming-books/blob/main/books/free-programming-books-langs.md#bootstrap)
+>> There is another link given below and read as much you have time and capacity
+[read what you like](https://www.infobooks.org/)
 
 > communities that i follow and keep posting the code to: \
 [crateDB](https://community.cratedb.com/) \
