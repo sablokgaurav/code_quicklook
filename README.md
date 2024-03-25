@@ -13,8 +13,9 @@ if you are looking for customized linux [customized linux](https://laptopwithlin
 [awesome listt](https://project-awesome.org/) \
 [anaconda package repository](https://anaconda.org/anaconda/repo) \
 [structured text tools](https://github.com/dbohdan/structured-text-tools) \
-[awesome devdocs](https://devdocs.io/)
-[tailwind css](https://tailwindcss.com/) 
+[awesome devdocs](https://devdocs.io/) \
+[tailwind css](https://tailwindcss.com/)
+[tree sitter](https://github.com/tree-sitter/tree-sitter) 
 
 > I am very voracious reader and i read and extract what is relevant and if you want the link is here:
 [read what you like](https://github.com/sablokgaurav/free-programming-books/blob/main/books/free-programming-books-langs.md#bootstrap)
