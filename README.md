@@ -1,8 +1,4 @@
-> This page is used for quick look when I am coding and I forgot some inbuilt function or class reference. It doesnt provide any code itself. I believe that no book or code courses teaches you how to write code for specific applications, specific projects and analysis. They simply teaches you how to declare variables, write functions. These are only languages that I am programming currently and needed this as a reference.
-
-> If you program and write code most of the day then to increase your vision and transparency and also to give your eyes a little bit rest, you  can find some themes here: [vscode_themes](https://vscodethemes.com/). Best online conversion that you can use for any format. I use this only all the time mainly. [cloudconvert](https://cloudconvert.com/) and in case you are writing C++ [cppreference](https://en.cppreference.com/w/).
-
-if you are looking for customized linux [customized linux](https://laptopwithlinux.com/product/clevo-nj70/) although i havent used or DELL XPS13 Developer Edition,12th Generation Intel® Core™ i7 processor, 32GB of memory and 2TB of storage. 
+# This page is used for quick look when i am writing code and i forgot some inbuilt function or class reference. it doesnt provide any code itself and i believe that no book or code courses teaches you how to write code for specific applications, specific projects and analysis. They simply teaches you how to declare variables, write functions. These are only languages that I am programming currently and needed this as a reference. themes for code visibility [vscode_themes](https://vscodethemes.com/) and [cloudconvert](https://cloudconvert.com/) if you are looking for customized linux [customized linux](https://laptopwithlinux.com/product/clevo-nj70/) although i havent used or DELL XPS13 Developer Edition.
 
 > github readme generator and package repositories \
 [profileme](https://www.profileme.dev/) \
@@ -17,9 +13,7 @@ if you are looking for customized linux [customized linux](https://laptopwithlin
 [tailwind css](https://tailwindcss.com/)
 [tree sitter](https://github.com/tree-sitter/tree-sitter) 
 
-> I am very voracious reader and i read and extract what is relevant and if you want the link is here:
-[read what you like](https://github.com/sablokgaurav/free-programming-books/blob/main/books/free-programming-books-langs.md#bootstrap)
-> There is another link given below and read as much you have time and capacity
+> I am very voracious reader and you can read it here if you have time and capacity: [read what you like](https://github.com/sablokgaurav/free-programming-books/blob/main/books/free-programming-books-langs.md#bootstrap) and 
 [read what you like](https://www.infobooks.org/)
 
 > communities that i follow and keep posting the code to: \
@@ -223,7 +217,6 @@ if you are looking for customized linux [customized linux](https://laptopwithlin
 [graphql](https://github.com/GraphQLCollege/fullstack-graphql) \
 [neo4j](https://neo4j.com/product/graph-data-science/#graph-data-science-resources) \
 [neo4jdata](https://graphacademy.neo4j.com/)
-
 
 ###### Rules for better code strategies 
 ▶️  keep a day off from the code and make it more attendable. Going through all the code, bug fixes and everything. \
