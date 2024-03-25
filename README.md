@@ -44,7 +44,13 @@ if you are looking for customized linux [customized linux](https://laptopwithlin
 > markdown programming \
 [markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) \
 [markdown guide](https://www.markdownguide.org/) \
-[markdown editor](https://github.com/marktext/marktext)
+[markdown editor](https://github.com/marktext/marktext) \
+[jekyll](https://github.com/jekyll/jekyll) \
+[jekyll themes](https://github.com/mattvh/jekyllthemes) \
+[jekyll minia](https://github.com/jekyll/minima) \
+[sphinx](https://github.com/sphinx-doc/sphinx) \
+[mkdocs](https://github.com/squidfunk/mkdocs-material) \
+[rea the docs](https://github.com/readthedocs/readthedocs.org)  
 
 > open courses \
 [openhpi courses](https://open.hpi.de/) \
