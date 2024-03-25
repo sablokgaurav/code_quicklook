@@ -7,6 +7,9 @@
 ```apt install clang make ruby-dev libffi-dev```\
 ``` gem install ffi```\
 ``` gem install bundler jekyll```
+```sudo gem install jekyll bundler```
+```sudo gem install colorator```
+```sudo gem install forwardable-extended```
 
 > github readme generator and package repositories \
 [profileme](https://www.profileme.dev/) \
