@@ -2,6 +2,12 @@
 
 [vscode_themes](https://vscodethemes.com/) and [cloudconvert](https://cloudconvert.com/). I am very voracious reader and you can read it here if you have time and capacity: ![read what you like](https://github.com/sablokgaurav/free-programming-books/blob/main/books/free-programming-books-langs.md#bootstrap) and [read what you like](https://www.infobooks.org/). Code editors and terminal clients given below and i am not a editor learner who will learn multiple editor or test them. 
 
+> installation that i keep ready
+> jekyll wont install so the way to install is given below:
+```apt install clang make ruby-dev libffi-dev```
+``` gem install ffi```
+``` gem install bundler jekyll```
+
 > github readme generator and package repositories \
 [profileme](https://www.profileme.dev/) \
 [all badges](https://home.aveek.io/GitHub-Profile-Badges/) \
