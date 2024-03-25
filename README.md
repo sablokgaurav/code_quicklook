@@ -142,7 +142,7 @@
 [anakin language server](https://github.com/muffinmad/anakin-language-server) \
 [rlang server](https://github.com/REditorSupport/languageserver) \
 [awk language server](https://github.com/Beaglefoot/awk-language-server) \
-[awk language protocol](https://github.com/fwip/awk-language-server) \
+[awk language protocol](https://github.com/fwip/awk-language-server) 
  
 > AWK compilers to increase run time efficiency. \
 [lawk](https://lawk.sourceforge.net/) \
