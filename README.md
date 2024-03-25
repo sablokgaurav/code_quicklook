@@ -158,7 +158,7 @@
 [awk](https://github.com/onetrueawk/awk) \
 [awk read](https://www.grymoire.com/Unix/Awk.html)
 
-> jq and yq lang
+> jq and yq lang \
 [jq lang](https://github.com/jqlang/jq) \
 [yq lang](https://github.com/mikefarah/yq)
 
