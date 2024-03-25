@@ -1,4 +1,5 @@
-##### This page is used for quick look when i am writing code and i forgot some inbuilt function or class reference. it doesnt provide any code itself and i believe that no book or code courses teaches you how to write code for specific applications, specific projects and analysis. They simply teaches you how to declare variables, write functions. These are only languages that I am programming currently and needed this as a reference. themes for code visibility [vscode_themes](https://vscodethemes.com/) and [cloudconvert](https://cloudconvert.com/) if you are looking for customized linux [customized linux](https://laptopwithlinux.com/product/clevo-nj70/) although i havent used or DELL XPS13 Developer Edition.
+##### This page is used for quick look when i am writing code and i forgot some inbuilt function or class reference. it doesnt provide any code itself and i believe that no book or code courses teaches you how to write code for specific applications, specific projects and analysis. They simply teaches you how to declare variables, write functions. These are only languages that I am programming currently and needed this as a reference. themes for code visibility [vscode_themes](https://vscodethemes.com/) and [cloudconvert](https://cloudconvert.com/) if you are looking for customized linux [customized linux](https://laptopwithlinux.com/product/clevo-nj70/) although i havent used or DELL XPS13 Developer Edition. I am very voracious reader and you can read it here if you have time and capacity: [read what you like](https://github.com/sablokgaurav/free-programming-books/blob/main/books/free-programming-books-langs.md#bootstrap) and 
+[read what you like](https://www.infobooks.org/). Code editors and terminal clients given below and i am not a editor learner or a system or laptop configurer who will learn multiple editor or test them. 
 
 > github readme generator and package repositories \
 [profileme](https://www.profileme.dev/) \
@@ -12,9 +13,6 @@
 [awesome devdocs](https://devdocs.io/) \
 [tailwind css](https://tailwindcss.com/) \
 [tree sitter](https://github.com/tree-sitter/tree-sitter) 
-
-> I am very voracious reader and you can read it here if you have time and capacity: [read what you like](https://github.com/sablokgaurav/free-programming-books/blob/main/books/free-programming-books-langs.md#bootstrap) and 
-[read what you like](https://www.infobooks.org/)
 
 > communities that i follow and keep posting the code to: \
 [crateDB](https://community.cratedb.com/) \
@@ -118,7 +116,6 @@
 [shell quick look](https://www.gnu.org/savannah-checkouts/gnu/bash/manual/bash.html)
 
 > editors and devops terminal clients sufficient for everything \
-> i am not a editor learner or a system or laptop configurer who will learn multiple editor or test them \
 [tabby](https://github.com/Eugeny/tabby) \
 [warp](https://github.com/warpdotdev/Warp) \
 [vscode](https://code.visualstudio.com/) \
