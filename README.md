@@ -47,7 +47,9 @@
 [jekyll minia](https://github.com/jekyll/minima) \
 [sphinx](https://github.com/sphinx-doc/sphinx) \
 [mkdocs](https://github.com/squidfunk/mkdocs-material) \
-[rea the docs](https://github.com/readthedocs/readthedocs.org)  
+[rea the docs](https://github.com/readthedocs/readthedocs.org)
+[plim](https://github.com/avanov/Plim) \
+[slim](https://github.com/slimphp/Slim)
 
 > open courses \
 [openhpi courses](https://open.hpi.de/) \
