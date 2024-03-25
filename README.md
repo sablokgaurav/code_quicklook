@@ -10,7 +10,7 @@
 [anaconda package repository](https://anaconda.org/anaconda/repo) \
 [structured text tools](https://github.com/dbohdan/structured-text-tools) \
 [awesome devdocs](https://devdocs.io/) \
-[tailwind css](https://tailwindcss.com/)
+[tailwind css](https://tailwindcss.com/) \
 [tree sitter](https://github.com/tree-sitter/tree-sitter) 
 
 > I am very voracious reader and you can read it here if you have time and capacity: [read what you like](https://github.com/sablokgaurav/free-programming-books/blob/main/books/free-programming-books-langs.md#bootstrap) and 
