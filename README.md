@@ -16,7 +16,8 @@
 [tree sitter](https://github.com/tree-sitter/tree-sitter) \
 [HTML reference](https://htmlreference.io/) \
 [HTML references](https://developer.mozilla.org/en-US/docs/Web/HTML) \
-[css reference](https://cssreference.io/)
+[css reference](https://cssreference.io/) \
+[quick checklist](https://michaelcurrin.github.io/dev-cheatsheets/)
 
 > communities that i follow and keep posting the code to: \
 [crateDB](https://community.cratedb.com/) \
