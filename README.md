@@ -118,7 +118,7 @@
 [shell quick look](https://www.gnu.org/savannah-checkouts/gnu/bash/manual/bash.html)
 
 > editors and devops terminal clients sufficient for everything \
-> i am not a editor learner or a system or laptop configurer who learn multiple editor or test them \
+> i am not a editor learner or a system or laptop configurer who will learn multiple editor or test them \
 [tabby](https://github.com/Eugeny/tabby) \
 [warp](https://github.com/warpdotdev/Warp) \
 [vscode](https://code.visualstudio.com/) \
@@ -185,7 +185,9 @@
 [dev connected](https://devconnected.com/) \
 [cratedb cloud](https://console.cratedb.cloud/) \
 [gitops](https://learning.codefresh.io/course/gitops-with-argo) \
-[warp workflow writer](https://github.com/warpdotdev/workflows) 
+[warp workflow writer](https://github.com/warpdotdev/workflows) \
+[lazygit](https://github.com/jesseduffield/lazygit) \
+[lazydocker](https://github.com/jesseduffield/lazydocker)
 
 > repositories that are important for terraform \
 [terraform aws](https://github.com/terraform-aws-modules/terraform-aws-eks) \
