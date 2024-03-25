@@ -16,7 +16,10 @@
 [structured text tools](https://github.com/dbohdan/structured-text-tools) \
 [awesome devdocs](https://devdocs.io/) \
 [tailwind css](https://tailwindcss.com/) \
-[tree sitter](https://github.com/tree-sitter/tree-sitter) 
+[tree sitter](https://github.com/tree-sitter/tree-sitter) \
+[HTML reference](https://htmlreference.io/) \
+[HTML references](https://developer.mozilla.org/en-US/docs/Web/HTML)
+
 
 > communities that i follow and keep posting the code to: \
 [crateDB](https://community.cratedb.com/) \
