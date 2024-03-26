@@ -124,7 +124,16 @@
 [spektral graph](https://graphneural.network/) \
 [optuna](https://optuna.org/) \
 [trendingprojects](https://www.libhunt.com/) \
-[packagelibraries](https://libraries.io/) 
+[packagelibraries](https://libraries.io/) \
+
+> snakemake programming \
+
+
+
+
+
+
+> nextflow programming \
 
 > regular Expression \
 [regular expression](autoregex.xyz) \
