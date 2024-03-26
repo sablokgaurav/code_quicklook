@@ -27,7 +27,8 @@
 [HTML references](https://developer.mozilla.org/en-US/docs/Web/HTML) \
 [css reference](https://cssreference.io/) \
 [quick checklist](https://michaelcurrin.github.io/dev-cheatsheets/) \
-[bootstrap](https://getbootstrap.com/)
+[bootstrap](https://getbootstrap.com/) \
+[tailwind quicklook](https://awesometailwind.com/)
 
 > communities that i follow and keep posting the code to: \
 [crateDB](https://community.cratedb.com/) \
