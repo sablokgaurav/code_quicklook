@@ -10,6 +10,11 @@
 ```sudo gem install jekyll bundler```\
 ```sudo gem install colorator```\
 ```sudo gem install forwardable-extended```
+> github personal token additions that i need all the time \
+> github -> developer settings -> classic token -> add as personal token \
+```ssh -keygen -trsa -b 4096 -c email ``` \
+```eval "$(ssh-agent-s)"```
+```ssh-add ~/.ssh/id_rsa```
 
 > github readme generator and package repositories \
 [profileme](https://www.profileme.dev/) \
