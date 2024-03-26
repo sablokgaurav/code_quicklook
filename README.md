@@ -34,6 +34,8 @@
 [quick checklist](https://michaelcurrin.github.io/dev-cheatsheets/) \
 [bootstrap](https://getbootstrap.com/) \
 [tailwind quicklook](https://awesometailwind.com/)
+[cinnamon](https://cinnamon-spices.linuxmint.com/) \
+[snapstore](https://snapcraft.io/store)
 
 > communities that i follow and keep posting the code to: \
 [crateDB](https://community.cratedb.com/) \
