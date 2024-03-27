@@ -38,7 +38,8 @@
 [snapstore](https://snapcraft.io/store) \
 [streamlit](https://docs.streamlit.io/) \
 [streamlit extra](https://extras.streamlit.app/) \
-[streamlit blog](https://blog.streamlit.io/)
+[streamlit blog](https://blog.streamlit.io/) \
+[anvil](https://anvil.works/) 
 
 > communities that i follow and keep posting the code to: \
 [crateDB](https://community.cratedb.com/) \
