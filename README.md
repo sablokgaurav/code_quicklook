@@ -124,7 +124,7 @@ I am very voracious reader and you can read it here if you have time and capacit
 [ruby docs](https://rubydoc.brew.sh/) \
 [ruby object orientation quick look](https://bparanj.gitbooks.io/ruby-basics/content/essential_book_series.html) \
 [ruby pdf library](https://github.com/yob/pdf-reader) \
-[ruby jekyll](https://jekyllrb.com/) \ 
+[ruby jekyll](https://jekyllrb.com/) 
 
 > r packages that i use immediately \
 [easystats](https://github.com/easystats) \
