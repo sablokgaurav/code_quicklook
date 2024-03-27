@@ -1,4 +1,4 @@
-<div align = "justify">  This page is used for quick look when i am writing code and i forgot some inbuilt function or class reference. it doesnt provide any code itself and i believe that no book or code courses teaches you how to write code for specific applications, specific projects and analysis. They simply teaches you how to declare variables, write functions. These are only languages that I am programming currently and needed this as a reference. themes for code visibility </div> 
+<div align = "justify">  This page is used for quick look when i am writing code and i forgot some inbuilt function or class reference. it doesnt provide any code itself and i believe that no book or code courses teaches you how to write code for specific applications, specific projects and analysis. They simply teaches you how to declare variables, write functions. These are only languages that I am programming currently and needed this as a reference. themes for code visibility </div> \
 
 > general applications \
 easy to search vscode themes [vscode_themes](https://vscodethemes.com/) 
