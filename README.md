@@ -35,7 +35,9 @@
 [bootstrap](https://getbootstrap.com/) \
 [tailwind quicklook](https://awesometailwind.com/)
 [cinnamon](https://cinnamon-spices.linuxmint.com/) \
-[snapstore](https://snapcraft.io/store)
+[snapstore](https://snapcraft.io/store) \
+[streamlit](https://docs.streamlit.io/) \
+[streamlit extra](https://extras.streamlit.app/)
 
 > communities that i follow and keep posting the code to: \
 [crateDB](https://community.cratedb.com/) \
