@@ -142,15 +142,6 @@ I am very voracious reader and you can read it here if you have time and capacit
 [trendingprojects](https://www.libhunt.com/) \
 [packagelibraries](https://libraries.io/) \
 
-> snakemake programming \
-
-
-
-
-
-
-> nextflow programming \
-
 > regular Expression \
 [regular expression](autoregex.xyz) \
 [regular pattern expressions](regex101.com) \
