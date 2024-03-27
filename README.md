@@ -1,6 +1,5 @@
 <div align = "justify">  This page is used for quick look when i am writing code and i forgot some inbuilt function or class reference. it doesnt provide any code itself and i believe that no book or code courses teaches you how to write code for specific applications, specific projects and analysis. They simply teaches you how to declare variables, write functions. These are only languages that I am programming currently and needed this as a reference. themes for code visibility </div> 
 
-
 > general applications \
 easy to search vscode themes [vscode_themes](https://vscodethemes.com/) 
 conversion utilities [cloudconvert](https://cloudconvert.com/) and [freeconvert](https://www.freeconvert.com/).  
@@ -91,7 +90,8 @@ I am very voracious reader and you can read it here if you have time and capacit
 [python](https://pythonrepo.com/) \
 [python](https://docs.python.org/3/) \
 [python packaging](https://packaging.python.org/en/latest/) \
-[scientific python](https://scientific-python.org/)
+[scientific python](https://scientific-python.org/) \
+[ipykernel](https://github.com/ipython/ipykernel) 
 
 > static and dynamic analysis \
 [static analysis](https://github.com/analysis-tools-dev/static-analysis) \
