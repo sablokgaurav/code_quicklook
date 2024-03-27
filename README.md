@@ -252,6 +252,9 @@
 [neo4j](https://neo4j.com/product/graph-data-science/#graph-data-science-resources) \
 [neo4jdata](https://graphacademy.neo4j.com/)
 
+> vector databases \
+[pinecone](https://www.pinecone.io/learn/) 
+
 ###### Rules for better code strategies 
 ▶️  keep a day off from the code and make it more attendable. Going through all the code, bug fixes and everything. \
 ▶️  dont go for all the programming languages, select which are necessary and develop them. \
