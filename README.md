@@ -140,7 +140,7 @@ I am very voracious reader and you can read it here if you have time and capacit
 [spektral graph](https://graphneural.network/) \
 [optuna](https://optuna.org/) \
 [trendingprojects](https://www.libhunt.com/) \
-[packagelibraries](https://libraries.io/) \
+[packagelibraries](https://libraries.io/) 
 
 > regular Expression \
 [regular expression](autoregex.xyz) \
