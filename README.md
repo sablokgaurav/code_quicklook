@@ -128,8 +128,8 @@ I am very voracious reader and you can read it here if you have time and capacit
 
 > r packages that i use immediately \
 [easystats](https://github.com/easystats) \
-[tidayverse](https://github.com/tidyverse) \
-[tidaymodels](https://github.com/tidymodels) \
+[tidyverse](https://github.com/tidyverse) \
+[tidymodels](https://github.com/tidymodels) \
 [mlverse](https://github.com/mlverse) \
 [cran](https://github.com/cran)
 
