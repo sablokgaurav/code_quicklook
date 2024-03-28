@@ -5,19 +5,6 @@ easy to search vscode themes [vscode_themes](https://vscodethemes.com/)
 conversion utilities [cloudconvert](https://cloudconvert.com/) and [freeconvert](https://www.freeconvert.com/).  
 I am very voracious reader and you can read it here if you have time and capacity: ![read what you like](https://github.com/sablokgaurav/free-programming-books/blob/main/books/free-programming-books-langs.md#bootstrap) and [read what you like](https://www.infobooks.org/). Code editors and terminal clients given below and i am not a editor learner who will learn multiple editor or test them. 
 
-> installation that i keep ready
-> jekyll wont install so the way to install is given below:\
-``` sudo apt install clang make ruby-dev libffi-dev```\
-``` gem install ffi```\
-``` gem install bundler jekyll```\
-```sudo gem install jekyll bundler```\
-```sudo gem install colorator```\
-```sudo gem install forwardable-extended``` \
-> github personal token additions that i need all the time \
-> github -> developer settings -> classic token -> add as personal token \
-```ssh -keygen -trsa -b 4096 -c email ``` \
-```eval "$(ssh-agent-s)"```
-```ssh-add ~/.ssh/id_rsa```
 
 > github readme generator and package repositories \
 [profileme](https://www.profileme.dev/) \
